@@ -1,0 +1,39 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/GameAssetResource/52La/Atlas/InGame52Atlas.tpsheet
+- Assets/GameAssetResource/Cards/CardAtlas/Cards.tpsheet
+- Assets/GameAssetResource/Coins.tpsheet
+- Assets/GameAssetResource/Common/Atlas/AvatarAtlas.tpsheet
+- Assets/GameAssetResource/Common/Atlas/CommonAtlas.tpsheet
+- Assets/GameAssetResource/Home/Atlas/HomeAtlas.tpsheet
+- Assets/GameAssetResource/LoadingGame/LoadingAtlas.tpsheet
+- Assets/GameAssetResource/Lobby/Atlas/LobbyAtlas.tpsheet
+- Assets/Images/DuaCho/RacingDogBackground.tpsheet
+- Assets/Images/DuaCho/RacingDogIcon.tpsheet
+textureFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/GameAssetResource/52La/Atlas/InGame52Atlas.png
+- Assets/GameAssetResource/Cards/CardAtlas/Cards.png
+- Assets/GameAssetResource/Coins.png
+- Assets/GameAssetResource/Common/Atlas/AvatarAtlas.png
+- Assets/GameAssetResource/Common/Atlas/CommonAtlas.png
+- Assets/GameAssetResource/Home/Atlas/HomeAtlas.png
+- Assets/GameAssetResource/LoadingGame/LoadingAtlas.png
+- Assets/GameAssetResource/Lobby/Atlas/LobbyAtlas.png
+- Assets/Images/DuaCho/RacingDogBackground.png
+- Assets/Images/DuaCho/RacingDogIcon.png
+normalmapFileNames:
+- Assets/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

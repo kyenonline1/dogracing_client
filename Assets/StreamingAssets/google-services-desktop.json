@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "666309658832",
+    "firebase_url": "https://pkmaster-88232-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pkmaster-88232",
+    "storage_bucket": "pkmaster-88232.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666309658832:android:c7aa3ec5f3fe0e12b376d5",
+        "android_client_info": {
+          "package_name": "com.pkmaster.petkiller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666309658832-mco17g0nv7ankh65e7nld5eut5kfd6gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiEcOiy3R-rjofaawHQ9iB-mkXVkMnsg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666309658832-mco17g0nv7ankh65e7nld5eut5kfd6gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

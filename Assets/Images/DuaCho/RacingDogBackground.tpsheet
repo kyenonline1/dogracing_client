@@ -1,0 +1,20 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:ec9907b8a368d90f9f766d6a0698751a:a576640fe30ea76b4c4987018cfb5b99:ba373e205e72e497e2ebc73731a97b88$
+#
+:format=40300
+:texture=RacingDogBackground.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+
+bg;0;1334;1920;714; 0.5;0.5; 0;0;0;0
+bg2;0;619;1920;714; 0.5;0.5; 0;0;0;0
+huong-dan;0;15;460;259; 0.5;0.5; 0;0;0;0
+huong-dan2;461;15;460;259; 0.5;0.5; 0;0;0;0
+huong-dan3;922;15;460;259; 0.5;0.5; 0;0;0;0
+khan-dai;0;275;2048;343; 0.5;0.5; 0;0;0;0

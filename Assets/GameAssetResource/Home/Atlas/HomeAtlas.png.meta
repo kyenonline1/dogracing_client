@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: b9987706c63d1d34da276cf5340e474d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4629520507397029698
+    second: bgHome
+  - first:
+      213: -2873968658224981706
+    second: bgProgressbar
+  - first:
+      213: 8516087677094110188
+    second: logo_dice1
+  - first:
+      213: 5980201544768872142
+    second: logo_dice2
+  - first:
+      213: -3849450317757101920
+    second: logo_dice3
+  - first:
+      213: -7519075276490737665
+    second: logo_dice4
+  - first:
+      213: 2253250081803624791
+    second: progressbar
+  - first:
+      213: 5224312603524995345
+    second: txtHuTien
+  - first:
+      213: -7140980530340614204
+    second: txtTai
+  - first:
+      213: 2160764848340243855
+    second: txtThan
+  - first:
+      213: 3681070268402023300
+    second: btnFB
+  - first:
+      213: -8073919110465922808
+    second: icon_eye_off
+  - first:
+      213: 4226676581917912709
+    second: icon_eye_on
+  - first:
+      213: 6384137727873634885
+    second: icon_uk
+  - first:
+      213: -1023601659370349791
+    second: icon_vn
+  - first:
+      213: 9042594709449208097
+    second: lg_line
+  - first:
+      213: -36262092350259545
+    second: login_btn_blue
+  - first:
+      213: 2961383653344957814
+    second: login_btn_green
+  - first:
+      213: -879645943653181969
+    second: logo_pm
+  - first:
+      213: 997890144089274037
+    second: reg_btn_back
+  - first:
+      213: -3606582129043813819
+    second: reg_field
+  - first:
+      213: 118122005513370663
+    second: background
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: background
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 664
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cf7c29657a3a100800000000000000
+      internalID: 118122005513370663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgHome
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 303
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f39cb8f5c5f3040800000000000000
+      internalID: 4629520507397029698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btnFB
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 971
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bba5de7e9c51330800000000000000
+      internalID: 3681070268402023300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_eye_off
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 20
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809d073b85da3ff80800000000000000
+      internalID: -8073919110465922808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_eye_on
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1003
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58eeda515fb28aa30800000000000000
+      internalID: 4226676581917912709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_uk
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542d31b5073099850800000000000000
+      internalID: 6384137727873634885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_vn
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 991
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12bdabdc6bf6bc1f0800000000000000
+      internalID: -1023601659370349791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lg_line
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 959
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 450, y: 0, z: 450, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121fb808affbd7d70800000000000000
+      internalID: 9042594709449208097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: login_btn_blue
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 899
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 13, y: 0, z: 13, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae76a2b1db2f7ff0800000000000000
+      internalID: -36262092350259545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: login_btn_green
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 827
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 12, y: 0, z: 12, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675564d1eb2f81920800000000000000
+      internalID: 2961383653344957814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: logo_pm
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 675
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe55070ccaedac3f0800000000000000
+      internalID: -879645943653181969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reg_btn_back
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 947
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6fd4b8cc739dd00800000000000000
+      internalID: 997890144089274037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: reg_field
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 767
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 14, y: 0, z: 13, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a421189a8d2fdc0800000000000000
+      internalID: -3606582129043813819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: ui_khunggame
+  assetBundleVariant: 

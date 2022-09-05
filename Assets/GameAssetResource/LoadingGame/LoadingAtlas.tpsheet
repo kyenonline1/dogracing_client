@@ -1,0 +1,17 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:89f7d2a558dd16d0c488347a08366452:5668667ff3a4727f9e7d07e9b4adc64d:ed5df9f31bebfbd4034e245d6e10ed07$
+#
+:format=40300
+:texture=LoadingAtlas.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+
+bgLoading;0;484;960;540; 0.5;0.5; 0;0;0;0
+bgProgressbar;0;475;536;8; 0.5;0.5; 0;0;0;0
+progressbar;0;466;536;8; 0.5;0.5; 0;0;0;0

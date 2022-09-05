@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: c61314b720cded24486b072e2585a46c
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: UTM Swiss Condensed
+  fontNames:
+  - UTM Swiss Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 508c5230ad32d9c4daa87b8ea3e295d8, type: 3}
+  - {fileID: 12800000, guid: f8954ec26778677479a2a5754f3eac15, type: 3}
+  - {fileID: 12800000, guid: 7181a086bbd7c204aaac37809f815be8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

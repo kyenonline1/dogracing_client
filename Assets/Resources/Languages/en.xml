@@ -1,0 +1,666 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Language>
+
+  <item key="ANNOUCEMENT_NOCONNECT_SERVER">UNABLE TO CONNECT. PLEASE CHECK YOUR NETWORK AND TRY AGAIN LATER!</item>
+  <item key="ANNOUCEMENT_INPUTUSERNAME_ERROR">PLEASE INPUT YOUR USERNAME !</item>
+  <item key="ANNOUCEMENT_INPUTNICKNAME_ERROR">PLEASE INPUT YOUR NICKNAME!</item>
+  <item key="ANNOUCEMENT_INPUTPASSWORD_ERROR">PLEASE INPUT YOUR PASSWORD!</item>
+  <item key="ANNOUCEMENT_INPUTCONFIRM_PASSWORD_ERROR">PLEASE CONFIRM YOUR PASSWORD!</item>
+  <item key="ANNOUCEMENT_INPUTCAPCHA_ERROR">RE-INPUT YOUR CAPCHA !</item>
+  <item key="ANNOUCEMENT_PASSWORD_NOTDUBLICATE">PASSWORD DOESN’T MATCH. PLEASE CHECK AGAIN!</item>
+
+  <item key="HOME_LOGIN">LOGIN</item>
+  <item key="HOME_REGISTER">REGISTER</item>
+  <item key="HOME_DEFAULT_INPUT_USERNAME">Username...</item>
+  <item key="HOME_DEFAULT_INPUT_PASSWORD">Password...</item>
+  <item key="HOME_REMEM_PASSWORD">Remember Password</item>
+  <item key="HOME_FOGET_PASSWORD">Forget Password</item>
+  <item key="HOME_FACEBOOK">FACEBOOK</item>
+  <item key="HOME_PLAYTRIAL">PLAY NOW</item>
+
+  <item key="HOME_DEFAULT_NICKNAME">Nickname...</item>
+  <item key="HOME_DEFAULT_CONFIRM_PASSWORD">Confirm password...</item>
+  <item key="HOME_DEFAULT_CAPCHA">Capcha...</item>
+  <item key="HOME_IGNORE">IGNORE</item>
+
+  <item key="HOME_DIALOG_TITTLE">ANNOUNCEMEENT</item>
+  <item key="HOME_DIALOG_CLOSE">CLOSE</item>
+  <item key="HOME_DIALOG_OKE">ACCEPT</item>
+  <item key="HOME_DIALOG_CANCEL">CANCEL</item>
+
+  <item key="HOME_DIALOG_TITTLE_EXCHANGE">PRIZE EXCHANGE</item>
+  <item key="HOME_DIALOG_CARD">TOP-UP CARD</item>
+  <item key="HOME_DIALOG_ITEM">ITEMS</item>
+  <item key="HOME_DIALOG_HISTORY">HISTORY</item>
+  <item key="HOME_DIALOG_STT">INDEX</item>
+  <item key="HOME_DIALOG_TIME">TIME</item>
+  <item key="HOME_DIALOG_STATUS">STATUS</item>
+  <item key="HOME_DIALOG_ITEM_NOMARL">Items</item>
+  <item key="HOME_DIALOG_CONFIRM_EXCHANE">Bạn có chắc chắn đổi {0} với giá {1} ?</item>
+  <item key="HOME_DIALOG_CONFIRM_OK">CONFIRM </item>
+  <item key="HOME_DIALOG_EXCHANGE_CODE">Code</item>
+
+  <item key="HOME_DIALOG_NODATA">NO DATA!</item>
+
+  <item key="HOME_DIALOG_TITTLE_GIFTCODE">GIFT CODE</item>
+  <item key="HOME_DIALOG_NOMARL_GIFTCODE">Gift Code</item>
+  <item key="HOME_DIALOG_TYPE_GIFTCODE">Please enter GIFTCODE...</item>
+  <item key="HOME_DIALOG_CONFIRM">CONFIRM</item>
+
+  <item key="HOME_DIALOG_TYPE_CODE">Enter code...</item>
+  <item key="HOME_DIALOG_TYPE_SERIAL">Enter serial number...</item>
+  <item key="HOME_DIALOG_CHARINGCARD">TOPPING UP</item>
+
+  <item key="HOME_DIALOG_SYSTEM">SYSTEM</item>
+  <item key="HOME_DIALOG_PERSONAL">PERSONAL</item>
+
+  <item key="HOME_DIALOG_PRORILE_TITLE">PROFILE</item>
+  <item key="HOME_DIALOG_UPDATE_PHONE">UPDATE PHONE NUMBER</item>
+  <item key="HOME_DIALOG_VIP">VIP</item>
+
+  <item key="HOME_DIALOG_TITTLE_SETTING">SETTING</item>
+  <item key="HOME_DIALOG_SOUND">Sound</item>
+  <item key="HOME_DIALOG_VIBRATION">Vibration</item>
+  <item key="HOME_DIALOG_ACCEPT_INVITE">ACCEPT INVITATION</item>
+
+  <item key="HOME_DIALOG_TYPE_PHONE">Enter phone number...</item>
+  <item key="HOME_DIALOG_UPDATE">UPDATE </item>
+
+  <item key="HOME_DIALOG_LOADCAPCHA_ERROR">CAPCHA FAIL</item>
+  <item key="HOME_DIALOG_CONFIRM_LOGOUT">LOGOUT CONFIRM ?</item>
+
+  <item key="HOME_DIALOG_PROFILE_EXP">EXP</item>
+
+  <item key="HOME_DIALOG_TOP_TITTLE">RANKING</item>
+  <item key="HOME_DIALOG_TOP_ACCOUNT">Account</item>
+  <item key="HOME_DIALOG_TOP_TIME">Time</item>
+  <item key="HOME_DIALOG_TOP_TYPE_JACKPOT">Jackpot Type</item>
+  <item key="HOME_DIALOG_TOP_WINMONEY">COIN EARN</item>
+  <item key="HOME_DIALOG_TOP_MONEYINDAY">COIN EARN PER DAY</item>
+  <item key="HOME_DIALOG_TOP_VIP">VIP LEVEL</item>
+  <item key="HOME_DIALOG_TOP_VIPPOINT">VIP POINT</item>
+  <item key="HOME_DIALOG_TOP_EXCHANGE">EXCHANGE TIMES</item>
+  <item key="HOME_DIALOG_TOP_SUMEXCHANGE">TOTAL EXCHANGE VALUE</item>
+  <item key="HOME_DIALOG_TOP_MONEY">MONEY</item>
+
+  <item key="HOME_DIALOG_TITTLE_MESSAGE">MESSAGE</item>
+
+  <item key="HOME_DIALOG_JOIN_GAME_ERROR">LOADING FAIL!</item>
+  <item key="HOME_TABLE_VIP">VIP TABLE!</item>
+  <item key="HOME_TABLE_NOMARL">NORMAL TABLE!</item>
+
+  <item key="POKER_ALL_IN">ALL IN</item>
+  <item key="POKER_CHECK">CHECK</item>
+  <item key="POKER_CALL">CALL</item>
+  <item key="POKER_RAISE">RAISE</item>
+  <item key="POKER_FOLD">FOLD</item>
+  <item key="POKER_OPEN_CARD">OPEN CARDS</item>
+  <item key="POKER_CONFIMR">CONFIRM</item>
+  <item key="POKER_WIN">WINNER</item>
+  <item key="POKER_WAITTING">New game will open in {0}s</item>
+  <item key="POKER_AUTO_CASHIN">AUTO BUY IN WHEN ALL CHIPS LOST.</item>
+
+  <item key="CHAT_SEND">Send</item>
+  <item key="CHAT_QUICKCHAT_POKER_0">Helloooo</item>
+  <item key="CHAT_QUICKCHAT_POKER_1">QUITTING SOON</item>
+  <item key="CHAT_QUICKCHAT_POKER_2">Thanks dear</item>
+  <item key="CHAT_QUICKCHAT_POKER_3">SORRY BABE</item>
+  <item key="CHAT_QUICKCHAT_POKER_4">FASTER, MAN</item>
+  <item key="CHAT_QUICKCHAT_POKER_5">GO FOR IT</item>
+  <item key="CHAT_QUICKCHAT_POKER_6">ANYTHING WILL DO</item>
+  <item key="CHAT_QUICKCHAT_POKER_7">DO IT, PUSSYCAT</item>
+  <item key="CHAT_QUICKCHAT_POKER_8">OUT OF CHIPS</item>
+  <item key="CHAT_QUICKCHAT_POKER_9">LUCKY ME</item>
+  <item key="CHAT_QUICKCHAT_POKER_10">SHIT HAPPENS</item>
+  <item key="CHAT_QUICKCHAT_POKER_11">BET MORE</item>
+  <item key="CHAT_QUICKCHAT_POKER_12">HEEHEE!!</item>
+  <item key="CHAT_QUICKCHAT_POKER_13">*SIGH*!</item>
+
+  <item key="HELP_GAMEID_POKER">POKER</item>
+  <item key="HELP_GAMEID_XOCDIA">EVEN AND ODD</item>
+  <item key="HELP_GAMEID_TLMN">SOUTH VN DAI DI</item>
+  <item key="HELP_GAMEID_TLMB">NORTH VN DAI DI</item>
+  <item key="HELP_GAMEID_MAU_BINH">SAP SAM CHEUNG</item>
+  <item key="HELP_GAMEID_LIENG">PALACE</item>
+  <item key="HELP_GAMEID_XITO">VN POKER</item>
+  <item key="HELP_GAMEID_PHOM">RUMMY-STYLE</item>
+  <item key="HELP_GAMEID_BA_CAY">THREE CARDS</item>
+  <item key="HELP_GAMEID_SAM">“SAM”</item>
+
+  <item key="HELP_POKER">
+    When playing Texas HoldEm poker, every player is dealt two cards face down – these are called your 'hole cards'. Then there is a round of betting where you can Check, Bet or Fold. This stage of the game is known as pre-flop and what you should do is dependent on those hole cards, or starting hand.
+
+    When all the betting has finished three shared cards are dealt face up in the middle of the table. This is called the flop.
+    After this there is another round of betting, then a fourth shared card – called the turn – is dealt.
+
+    Your best Texas Holdem hands will be made by using your hole cards and the five cards in the middle to make the best possible five card poker hand.
+
+    Poker hands from highest to lowest:
+
+    Straight flush
+    Five cards in a sequence, all in the same suit.
+    Four of a kind
+    All four cards of the same rank.
+    Full house
+    Three of a kind with a pair.
+    Flush
+    Any five cards of the same suit, but not in a sequence
+    Straight
+    Five cards in a sequence, but not of the same suit.
+    Three of a kind
+    Three cards of the same rank.
+    Two pair
+    Two different pairs
+    Pair
+    Two cards of the same rank.
+    High Card
+    When you haven't made any of the hands above, the highest card plays.</item>
+  <item key="HELP_XOCDIA">
+    EVEN AND ODD IS ONE OF THOSE BETTING GAMES LIKE CHO-HAN ( a traditional Japanese gambling game using dice), with dices are replaced by 4 coins ( 2 red and 2 white coins). The game will be shaken in a bamboo cup or bowl by a dealer. The cup is then overturned onto the floor. Players then place their wagers on whether the sum total of numbers showing :
+    Even:
+    2 red and 2 white coins.( win normal bet )
+    4 red coins
+    4 white coins
+    Odd:
+    3 red and 1 white coins and vice versa ( win normal bet )
+    The players also can bet on the exact sequences of coins to win even more.
+    4 red coins or 4 white coins ( bet 1 win 9.5)
+    3 red coins or vice versa ( bet 1 win 2.5)
+  </item>
+  <item key="HELP_TLMN">
+    Also known as Vietnamese cards, Thirteen, Killer 13, "'Bomb"', is a Vietnamese shedding-type card game devised in Southern China and Vietnam. It is similar to Zheng Shangyou, which uses a specially printed deck of cards, Big Two, and other "climbing" card games popular in many parts of Asia. Tien len, considered the national card game of Vietnam, is a game intended and best for four players.
+    A standard deck of fifty-two playing cards is used. The ranking of the cards from highest to lowest is:2 A K Q J 10 9 8 7 6 5 4 3.
+
+    The cards are also ranked based on their suits. The ranking from highest to lowest is: Hearts ♥, Diamonds ♦, Clubs ♣, Spades ♠.
+
+    Therefore, the 2♥ is the highest single card in the game, because the 2 is the highest-ranking card and hearts is the highest-ranking suit. Similarly, the 3♠ is the lowest single card in the game.
+
+    The card number takes precedence over the suit, so the 10♠ is higher than the 9♥.
+
+    The objective of the game is to be the first to get rid of all of your cards by playing various combinations.
+
+    A standard deck of fifty-two(52) playing cards is used. The dealer can be anyone, and is normally designated by the players themselves. Each player is dealt thirteen cards, with a card being dealt one at a time to each player counter-clockwise, although some players allow clockwise dealing at the dealer's discretion. The cards can also be dealt single-handedly to each player. This will result in all fifty-two cards in the deck being dealt. When playing with three players, each player can hold the traditional thirteen maximum cards or the whole deck may be dealt out to the players.
+
+    Standard combinations
+
+    Single ("loner", "solo"): A single played card. Singles can be defeated by singles that are higher in rank. The game starts with the 3♠, the lowest card in the game. Even though it is a cinch to defeat, singles can be the most difficult head-scratchers. As the cards get higher, players begin to choose to eliminate the best in their hand to defeat another player's single card.
+    Pair ("double", "dubs"): A combination of exactly 2 cards of the same rank, such as 4♥ 4♣ || 5♠ 5♦ || A♠ A♣ || J♥ J♦. A pair can only be defeated by a pair of a higher rank than the highest card of the previous pair. For example: If a player plays the 9♠ 9♦, another player would need either 9♥ 9♠ or a higher-ranked pair (such as J♥ J♦) to defeat the first pair.
+    Triple ("trio", "trips"): A combination of exactly three cards of rank. They can only be defeated by a triple of a higher rank. If a player plays triple 4♠ 4♦ 4♥, then another player must have a 5♠ 5♦ 5♣ or higher to defeat it. Triples are difficult to defeat because they require the sacrifice of 3 cards
+    Run ("sequence", "straight"): A combination of at least three cards that are in a numerical sequence. The order of the cards must be in a consecutive order. The highest possible ending card in a straight is the A, and the lowest beginning card is the 3.
+
+    A sequence can only be beaten by a higher sequence. In order to defeat a sequence, the higher sequence can be a mix of any suits, as long as rank of the highest card is higher. If, a person plays 6♥ 7♥ 8♠, that straight can only be defeated by any 3 card straight like 6♠ 7♦ 8♣, or higher. If a person extends the sequence, it must be defeated by matching the number of cards played, only in a higher sequence.
+  </item>
+  <item key="HELP_TLMB">
+    Similar to South Dai Di, however, only tighter in game play.
+
+    This is the type of card game that is considered to have the most strict rules, in addition to the basic rules, the player is forced to fight the same color and homogeneous. Colored means double black or double red . (For example, when playing cards in the north, you have to play pair of4 reds or pair of 4 black, not just combine any colors with the same number )
+    the player picks up a card / group of cards, the next person to catch with a stronger card / group and does not need the same color / The same value that different kind can also be caught. Groups with the same number of cards and the value of the same cards are stronger than those with the highest card having a stronger card.
+  </item>
+  <item key="HELP_MAU_BINH">
+    Sap Sam Chueng or Chinese Poker is a card game with the objective being to arrange 13 cards into 3 poker hands to maximize their combined value. There are often many ways to arrange the cards, and most of the time, there is no single best way to arrange. Chinese poker is a game in which both luck and skill are equally needed to win.
+
+    When you first enter a game room, you are an observer. To reserve your sit, you can click on one of the empty seats or click on button "Sit". If there is no seat available, consider open a new table, or wait for someone to leave, or go to a different table. Double click on a table will let you to go there.
+
+    Once you have a sit, you can play the next time the cards are dealt. If there is no game in progress, you can click on "Deal" to ask the server to deal cards. There must be at least 2 people to play.
+
+    At the beginning of a new game, each player is given 13 cards, all in the bottom card slots. You can click on the cards to select them. Once you have selected 3 or 5 cards, you can click on "Move Up" to move the set to the upper card slots.
+
+    Once you have moved up all your cards, and the poker hands form a valid arrangement, you can click on the "Submit" button to send your arrangment to the server.
+
+    For convinient, the program offers "Rank Sort", "Suit Sort" to help you order the cards in lower slots according to rank or suit. You can use "Deselect All" to deselect all selected cards. For beginners, it's recommended that you use suit sort to look for flush, then use rank sort to organize the rest of your cards.
+
+    At any time prior to your submission, you can click on the "X" on the left of any upper card slots to move the cards in those slots down to lower slots.
+
+    When all players submit their arrangment, the server will show all the cards and compute the winning/losing amount for each player. The cards of each player is compared with those of other players according to the game rule.
+
+    The top set has 3 cards. It is of 3 types, in decreasing value:
+
+    Triple: 3 cards of the same rank
+    Pair: 2 of the 3 cards have the same rank
+    Trash: all the cards are different
+
+    The middle and the bottom sets each has 5 cards. Each is of 9 types, in decreasing value.
+
+    Straight Flush: 5 cards of the same suit forming a consecutive sequence
+    Quadruple: 4 cards of the rank and a extra card.
+    Full House: 3 cards of the same rank, and 2 remaining cards also of same different rank.
+    Flush: 5 cards of the same suit.
+    Straight: 5 cards forming a consecutive sequence
+    Triple: 3 cards of the same rank and 2 extra cards
+    Two Pairs: 2 pairs of cards with the same rank and 1 extra card
+    Pair: a pairs of cards with the same rank and 3 extra cards
+    Trash: all cards have different rank, and not all have the same suit.
+
+    When comparing 2 cards, and when determining if a set is a consecutive sequence, only the ranks of the cards count. The order of the card rank in increasing order is 2 3 4 5 6 7 8 9 10 J Q K A. The only exception is that, the set A 2 3 4 5 is considered a valid consecutive sequence, with the Ace counted as a card with smallest possible value.
+
+    When 2 sets are compared, their types are compared first. A set with better type is better. If the type of the two sets are the same, the cards making up the sets are compared in lexicographic order, first, those determine the set type, then the extra cards.
+
+    In a hand, the 3 card sets must be in increasing order. The top must have smaller value than the middle, and the middle must have smaller value than the bottom. Arrangements violating this rule is labeled "Invalid", and are not allowed to be sent to server.
+
+    When a hand is compared with another hand, the top set is compared with the top set, middle with middle, and bottom with bottom. Each win is counted as +1 and each lost is counted as -1 with a few exceptions. The over all winning of a hand is a sum of all 3 winning.
+
+    Counting exception: A Straight Flush in the bottom wins +5, a Quadruple in the bottom wins +4, a Straight Flush in the middle wins +10, a Quadruple in the middle wins +8, a Full House in the middle wins +2, a Triple in the top wins 3. Further more, if both players have Straight Flush (or Quadruple, or Full House in the middle, or Triple in the top), the amount of money win/lose for that particular set is double.
+
+    Free hands: The following hands are free hands. Players do not need to arrange cards. These hands are rare, and they don't have a meaningful arrangement in general. The server will automatically credit players having free hands appropriate winning amounts.
+
+    straight of 13 cards, win 13*bets
+    13 black (or 13 red) cards, win 13*bets
+    12 black and one red (or 12 red and 1 black) cards, win 3*bets
+    6 pairs, win 3*bets from each other player.
+    3 straights (i.e. the middle and bottom are straights, and the top is trash resembling a straight), win 3*bets
+    3 flushes (i.e. the middle and bottom are flushes, and the top is trash resembling a flush), win 3*bets.
+  </item>
+  <item key="HELP_LIENG">
+    Before the beginning of the game
+    Each person places a certain amount of money - equal to the minimum bet amount in the table.
+
+    Beginning of the game
+    Each player is dealt three cards. These three leaves absolutely not let the opponent know.
+
+    In turn
+    Players have the right to decide on the following:
+
+    Handbags: Players place all their money if they feel they are strong and the chances of winning are absolute.
+    Slots: Place higher bets with the upper entrants
+    By: Place the bet exactly equal to the amount deposited
+    Postponed: The current game is abandoned due to too weak, only losing the original bet. And finish this game here.
+    Must have at least 2 players to participate in Lieng and at most 6 players. Before the cards are dealt, all players will spend the same amount of money.
+
+    - Each player is dealt three cards and three cards are not known to the opponent.
+
+    - Then players start betting. There are up to 3 rounds
+
+    - After everyone bets, the one with the highest card value will be the winner.
+
+    The cards in the Lie table are calculated as follows:
+    Wax ♠ 5 ♦ 5 ♥ 5 The wax is the same three cards, for example the three leaves are called wax 3 If two people have wax together, the one with higher wax wins, goes from 2, 3, 4, 5, 6, 7, 8 , 9, 10, J, Q, K, A
+    edicated ♠ 3 ♣ 4 ♥ 5 Three consecutive troops do not need the same (Accept both A, 2, 3 and Q, K, A). If it is the same, compare the largest card value like wax. (Note that sets A, 2, 3 are the smallest sets. The sets Q, K, A are the largest.) Two sets of equal values ​​are equal (No comparison).
+    Image ♥ Q ♦ Q ♦ K When your cards hold the three cards have a human head (J, Q, K) is called a picture. When two opponents have pictures then comparing them to the highest quality of the article. If the equality is comparable to the card, the low-ranking affair is J, Q, K
+    Point 3 3 ♣ 7 ♥ 9 When your post is not Wax, Divine, Photo, then start scoring.
+    You take the points of the three cards dealt to collect the excess when dividing by 10 will give you points. In high school, grades range from high to low 9, 8, 7, 6, 5, 4, 3, 2, 1, 0.
+
+    The points of the cards are calculated as follows: Numbers 2, 3, 4, 5, 6, 7, 8, 9 are calculated with points 2, 3, 4, 5, 6, 7, 8, 9. Force A is counted 1 point. Forces 10, J, Q, K are all 0 points.
+
+    When two opponents score, compare the highest. If you compare the cards., low to High are 2, 3, 4, 5, 6, 7, 8, 9, 10, J, Q, K, A.
+  </item>
+  <item key="HELP_XITO">
+    Similar to Texas Hold Em Poker, this is the VN style of poker which also form the best 5 card.
+
+    However, by receiving the first 2 cards with one card face up and 1 face down, the players continue to take the upper most or most lower cards until they form the best of 5 cards and start to compare.
+  </item>
+  <item key="HELP_PHOM">
+    Phỏm (or Tá Lả) is a Rummy-style game played with a standard deck of cards. The objective of the game is to exchange cards in a hand to form combinations of cards called phoms and to reduce the number of points left in the cards that are not in any phoms. This variance of Rummy is played through out Vietnam, though it is much more popular in northern provinces of Vietnam.
+    Valid Combinations in Phom (Ta La)
+
+    A valid group of cards (called phom) in this game is either:
+
+    3 or more cards of the same suit
+    3 or more cards of the same rank.
+
+    Playing Phom (Ta La)
+
+    The game is for 2-4 people and it is best to play the game with 4 people. Each player initially has 9 cards except the first player who has 10 cards. The remaining deck of cards is left in the middle of the game table.
+
+    The game starts with the first player discarding one of his card. The next player can meld that card if the card together with 2 or more cards on his hand form a phom. If the card is melt, the player does not need to show other people the cards he uses for the melding. If the player cannot meld or does not want to meld, he can hit, taking a new card from the remaining deck. This new card is known only to the player and not to all his opponents. After melding or hitting, the player then discards one of his cards and the game continues with the next player.
+
+    The game ends when there is a player whose hands can be arranged into one or more phoms. This type of winning is called rummy (also known as ù). If there is no such player, the game ends after 4 rounds. Before discarding a card in the last round, a player must shown all the phoms he has.
+
+    Important restrictions: Any phom cannot contain 2 cards taking into the hand via melding. A player is free to arrange the phoms any way he wishes before showing to others. During the game, a player must make sure that the remaining hand is valid at all time, i.e. the card(s) he melt must still be in separate phom(s).
+    Rounds in Phom (Ta La)
+
+    A phom game is conviniently organized in 4 rounds. In each round, each player takes on average exactly one card from the remaining deck. Note that a player may meld one or more cards during a round and thus avoid taking any card from the remaining deck. A player may actually take up to 3 cards in a round, while other players may take none.
+
+    To make it easy for players to know the current round and when it ends, the trash cards in a round are shifted counter clockwise whenever a card is melt.
+
+    Note that if a player plays more than one time during the last round, he has a chance to put down phom(s) each time he plays.
+    Scoring
+
+    If a player wins with a rummy, the winner wins 6 bets from each other players. The winning amount is doubled (i.e. 12 bets) if the rummy happens before the player discards, and thus the hand still has 10 cards.
+
+    For a normal game with no rummy, each player computes his point as the number of dots remaining in his hand, counting J, Q, K as 11, 12, and 13 respectively. The lower the point, the better the hand. As an exception, a hand with no phom is called móm and is always worse than a hand with phom(s).
+
+    The player with the best remaining hand wins the game. The losers rank themselves according to their points and pay 1, 2, or 3 bets respectively to the winner. A loser with a móm hand must always pay 4 bets to the winner however.
+
+    Tie breaker note: In a normal game (i.e. no rummy), if two players have the same point, the person who discards the last card among the two loses.
+    Penalty Rules
+
+    There are 3 penalty rules.
+
+    If player A discards a card that is melt by the next player B, A must pay 1 bet to B. If the round is the last round, A must pay to B 4 bets instead of 1 bet.
+    If player A lets the next player B melds 3 cards, B wins with a rummy and A must pay the losing bets for all other players.
+    If the game ends with a rummy in the last round, the last person who melt during that last round is penalized and must pay the losing bets for all other players.
+    Phom is interesting in that a player can try to guest the cards his opponents have based on the cards they meld and discard. Mastering the game requires a lot of practice.
+
+    Note that the losing amount for a normal game is low compared to rummy or even the penalty for letting the next player melds your card. A player should focus on getting a rummy while trying to deny the player next to them from melding discarded cards.
+    Phom Variations
+
+    Phom can be considered Vietnamese Rummy, yet there are many minor variations of the game Phom within Vietnam.
+  </item>
+  <item key="HELP_BA_CAY">
+    Each player is given a hand of 3 cards in the game. The hands are then compared, and the person with the best hand wins. If there is a tie, the winning amount is equally divided to all the winners.
+
+    Hand value
+
+    A hand is simply evaluated by adding the 3 cards together, counting an Ace as one, King, Queen, or Jack as ten. The last digit of the sum is then the value of the hand. The suits and ranks of individual cards are irrelevant in the computation of this digit. The higher the value of this digit, the better the hand.
+
+    Three types of hands are considered special in this game. A triple is a hand with 3 identical cards. A figure hand is a hand with 3 figure cards (i.e. having only kings, queens, or jacks.) A triple figure hand is a hand that is both a triple and a 3 figure hand. Among these special hands, the triple figure hands are best, then the triple hands, then the figure hands. Special hands are always better than nonspecial ones.
+  </item>
+  <item key="HELP_SAM">
+    Or Sam is played with 52 sets of cards, each with 2 parts and a number. For example: 6 ♣ 6 and ♣.
+    The value of ginseng only depends on the number. The strength decreases as follows:
+    2 (pig)> A> K> old> Q> 10> 9> ...> 3.
+
+    #
+    Spoiler: 9 ♠
+    Duo: J ♥ J ♣
+    Trio: 7 ♥ 7 ♦ 7 ♣
+    Lounge: 2 ♠ 3 ♥ 4 ♠ 5 ♥ 6 ♠ 7 ♥ 8 ♦ ...
+    Note: KA2 is not a hall.
+    Four seasons: 6 ♥ 6 ♦ 6 ♣ 6 ♠
+
+    # The post Sam (Call Sam)
+    - Starting in games played, everyone has the right to chant Sam .
+    - The first sam will have the right to fight first.
+    - If there are two people at the same time, will be preferred to the table owner or winner of the first will be Sam .
+    - If the one call Sam even if only beat once will have to pay each house 20 cards (excluding pigs).
+    - If the person responds to the Sam, no one will be able to eat 20 leaves (not counting pigs).
+
+    # Hit the whistle
+    - The right to fight: If no one Sam , first game, the right to fight is random. From the next game on the first board will be the next board.
+    - Ring: In counter clockwise direction, each person is given a leaf or a set of leaves. The latter must play cards of the same type and higher than the one before, except in the case of chopping. Type is the same leaves, garbage, triple, hall.
+    - End of round Sam : In the fight if a person turns around, it is considered as a round. If no one intercepts, then the person who hit the ball is given a new start.
+    - Do not leave the last two while playing ginseng.
+    - If a person leaves only one leaf will notice: one leaf is the winner. At that time, the person on the left of the reporter must be responsible for fighting the most troops will not be arrested.
+
+    # Finish Sam
+    When the first player hits his cards. Who left as losers in the game of Sam .
+    When a person has not hit a card in his deck, the other player has defeated the Sam .
+    # Straight win in the online Sam:
+    - Always win after Sam, or start playing cards
+    - If two people have the same white, who told Sam before that he won the game of invasion.
+
+    # Cases of white to white in the online game are as follows:
+    + Dragon Hall (10-leaf hall). 3 ♠ 4 ♦ 5 ♥ 6 ♣ 7 ♥ 8 ♦ 9 ♦ 10 ♠ J ♥ Q ♠
+    + Flower: 4 ♦ 4 ♥ 5 ♦ 5 ♥ 6 ♥ 8 ♦ 10 ♥ J ♦ K ♦ A ♥
+    + 5 pairs: 4 ♥ 7 ♦ 7 ♥ 9 ♣ 9 ♥ 10 ♣ 10 ♥ Q ♣ Q ♦
+    Priority order: Dragon Hall> Flower> 5 Double.
+
+
+    # Chop: In the game with the following rules:
+    + Four quarter cut the pigs
+    + Four quarter cut quarter.
+  </item>
+
+  <item key="LIENG_FLIPCARD_CANCEL">CANCEL</item>
+  <item key="LIENG_FLIPCARD_FLIPCARD">FLIP</item>
+
+  <item key="XITO_MONEY_SUM">SUM</item>
+  <item key="XITO_OPEN_CARD">OPEN CARD</item>
+  <item key="XITO_BUTTON_RAISE">RAISE</item>
+  <item key="XITO_BUTTON_CHECK">CHECK</item>
+  <item key="XITO_BUTTON_ALLIN">ALL IN</item>
+  <item key="XITO_BUTTON_CALLALL">CALL ANY</item>
+
+  <item key="PHOM_BUTTON_READY">READY</item>
+  <item key="PHOM_BUTTON_SORT">SORT</item>
+  <item key="PHOM_BUTTON_EAT">EAT</item>
+  <item key="PHOM_BUTTON_FIGHT">FIGHT</item>
+  <item key="PHOM_BUTTON_HAPHOM">LOWER PHOM</item>
+  <item key="PHOM_BUTTON_SENDCARD">SEND CARD</item>
+  <item key="PHOM_BUTTON_TAKECARD">TAKE CARD</item>
+
+  <!-- SLOT 5-->
+  <item key="SLOT_BUTOTN_ROLL">ROLL</item>
+  <item key="SLOT_BUTOTN_BLIND">BLIND</item>
+  <item key="SLOT_BUTOTN_LINE">LINE</item>
+  <item key="SLOT_TOTAL_BETMONEY">TOTAL BET:</item>
+  <item key="SLOT_WIN_MONEY">WIN:</item>
+  <item key="SLOT_TITTLE_SELECT_LINE">CHOOSE LINE</item>
+  <item key="SLOT_TITTLE_VINHDANH">HALL OF FRAME</item>
+  <item key="SLOT_TITTLE_HELP">GUIDE</item>
+  <item key="SLOT_NOTI_FREESPIN">FREE SPIN: {0}</item>
+  <item key="SLOT_TIME_BONUS">TIME REMAINING: {0}</item>
+  <item key="SLOT_MONEY_BONUS">BONUS CASH: {0}</item>
+  <item key="SLOT_NUMBER_BONUS">BONUS TIMES: {0}</item>
+  <item key="SLOT_WIN">WIN</item>
+  <item key="SLOT_NICKNAME">NICKNAME</item>
+  <item key="SLOT_RANK">RANKING</item>
+  <item key="SLOT_HISTORY">HISTORY</item>
+  <item key="SLOT_AUTOROLL">AUTO ROLL</item>
+  <item key="SLOT_STOP">STOP</item>
+  <item key="SLOT_MUCCUOC">SPEED</item>
+  <item key="SLOT_SUMBET">BIG-SMALL</item>
+  <item key="SLOT_DETAIL">LUCKY SPINNER</item>
+  <item key="SLOT_DONGCHAN">MINI POKER</item>
+  <item key="SLOT_DONGLE">EASTER EGGS</item>
+  <item key="SLOT_TXTHELP_1">
+    5 JACKPOTS
+    4 x30
+    3 x5
+  </item>
+  <item key="SLOT_TXTHELP_2">
+    5 FREE SPINS x10
+    4 FREE SPINS x5
+    3 FREE SPINS x1
+  </item>
+
+
+  <!-- SLOT 3-->
+  <item key="SLOT_SPEEDUP">SPEED UP</item>
+  <item key="SLOT_HELPTITTLE">GUID</item>
+
+  <item key="MINIGAME_TAIXIU">BIG-SMALL</item>
+  <item key="MINIGAME_VQMM">VQMM</item>
+  <item key="MINIGAME_MINIPOKER">MiniPoker</item>
+  <item key="MINIGAME_TRUNGPHUCSINH">EASTER EGGS</item>
+  <item key="SLOT_HELP1">
+    "On the display if the Wild appear, it can replace any other icon but not counted as Jackpot. 
+    Last 2 rolls * include jugs multiplied more awards when iconnized. Additional multiplier will lose value if rotten eggs stood before.
+    * Charge: winning the money won by the total multiplier according to the table above. 
+    For example: having X 5 x 5 x 10, by standing in front of and behind the x 3 will not be counted "
+  </item>
+  <item key="SLOT_JACKPOT">JACKPOT</item>
+
+  <!-- MAU BINH -->
+  <item key="MB_SO_CHI_1">COMPARE 1ST LINE</item>
+  <item key="MB_SO_CHI_2">COMPARE 2ND LINE</item>
+  <item key="MB_SO_CHI_3">COMPARE 3RD LINE</item>
+  <item key="MB_TINH_A">CACULATE A</item>
+  <item key="MB_RESULT">RESULT</item>
+  <item key="MB_2_DOTS">SAP SAM CHUENG: </item>
+  <item key="MB_2_DOTS_BLINDS">TABBLE: {0} {1}</item>
+  <item key="MB_PLAYING">PLAYING</item>
+  <item key="MB_DONE">SORT DONE</item>
+  <item key="MB_REARRANGE">REARRANGE</item>
+  <item key="MB_NEW_ROUND_SPACE">NEW GAME WILL OPEN IN</item>
+
+  <!-- XOC DIA -->
+  <item key="XD_2_DOTS">EVEN AND ODD: </item>
+  <item key="XD_2_DOTS_BLINDS">Set: {0} {1}</item>
+  <item key="XD_NEW_ROUND">NEW GAME WILL OPEN IN</item>
+  <item key="XD_BET_ROUND">BET ROUND</item>
+  <item key="XD_BET_END">BET END</item>
+  <item key="XD_BUY_ROUND">BUY ROUND</item>
+  <item key="XD_OPEN">OPEN CARD</item>
+  <item key="XD_RESULT">RESULT</item>
+  <item key="XD_BANKER">BANKER</item>
+
+
+  <!-- TIẾN LÊN / SÂM LỐC -->
+  <item key="TL_BUTTON_READY">READY</item>
+  <item key="TL_BUTTON_FIGHT">FIGHT</item>
+  <item key="TL_BUTTON_SORT">SORT</item>
+  <item key="TL_BUTTON_UNSELECT">UNSELECT</item>
+  <item key="TL_BUTTON_FOLD">FOLD</item>
+  <item key="TL_BUTTON_CANCEL">CANCEL</item>
+
+  <item key="TL_STATE_READY">READY</item>
+  <item key="TL_STATE_FOLD">FOLD</item>
+
+  <item key="TLMB_TABLE_ID">TABLE : {0}</item>
+  <item key="TLMB_TABLE_BLIND">TABLE BLIND: {0}</item>
+
+  <item key="TLMN_TABLE_ID">TABLE: {0}</item>
+  <item key="TLMN_TABLE_BLIND">TABLE BLIND: {0}</item>
+
+  <item key="SAMLOC_TABLE_ID">TABLE: {0}</item>
+  <item key="SAMLOC_TABLE_BLIND">TABLE BLIND: {0}</item>
+  <!-- END TIẾN LÊN / SÂM LỐC -->
+
+  <!-- BA CÂY -->
+  <item key="BACAY_TABLE_ID">TABLE: {0}</item>
+  <item key="BACAY_TABLE_BLIND">TABLE BLIND: {0}</item>
+
+  <item key="BACAY_COUNTDOWN_START">NEW GAME WILL OPEN IN {0}s</item>
+  <item key="BACAY_BUTTON_BET_MASTER">BET BANKER</item>
+  <item key="BACAY_BUTTON_BET_CHICKEN">BET PLAYER</item>
+
+  <item key="BACAY_DIALOG_CONFIRM_SNATCH_MASTER">CONFIRM SNATCH ?</item>
+  <item key="BACAY_DIALOG_CONFIRM_BUY_MASTER">CONFIRM BUY ?</item>
+  <!-- END BA CÂY -->
+
+  <!-- Mini poker-->>
+  <item key="MP_AUTO">AUTO ROLL</item>
+  <item key="MP_SPEEDUP">SPEED UP</item>
+
+  <!--TÀI XỈU-->>
+  <item key="TX_ANOTHERNUMBER">DIFFERENT AMOUNT</item>
+  <item key="TX_SQUEEZE">SQUEEZE</item>
+  <item key="TX_CHATTITLE">CHAT TITLE</item>
+  <item key="TX_INPUTCHAT">Chat input...</item>
+  <item key="TX_SENDCHAT">SEND</item>
+  <item key="TX_SESSION">SESSION</item>
+  <item key="TX_BETTAI">BET BIG</item>
+  <item key="TX_BETXIU">BET SMALL</item>
+  <item key="TX_REFUND">REFUND</item>
+  <item key="TX_RESULF">RESULT</item>
+  <item key="TX_HISTORYBET">BETTING HISTORY</item>
+  <item key="TX_STATISTIC">STATISTIC</item>
+  <item key="TX_SOICAU">COMPARE</item>
+  <item key="TX_SUM">SUM</item>
+  <item key="TX_DIECE1">DICE 1</item>
+  <item key="TX_DIECE2">DICE 2</item>
+  <item key="TX_DIECE3">DICE 3</item>
+  <item key="TX_TIME">TIME REMAINING</item>
+  <item key="TX_NICKNAME">NICK NAME</item>
+  <item key="TX_BET">BET</item>
+  <item key="TX_REFUND1">REFUND</item>
+  <item key="TX_BET_1">BET </item>
+  <item key="TX_NHAN">RECEIVE</item>
+  
+  <item key="TX_HELP">
+    "Step 1: Select the Prediction buttons between BIG or SMALL( *)
+    Step 2: Enter the amount you want to predict and then agree to confirm. (**)
+    Step 3: Track your results to win or lose. (***)
+
+    (*) -> 18 points, 3 points -> 10 points.
+    (**) How to play game:
+    - Join the prediction of the game on the BIG or SMALL.
+    - At the end of the selection period,  the difference on bet between both sides will be refunded to
+    players (earlier prediction advantage).
+    (***) Reward when results:
+    - The system will charge 5% of the amount based on winnings.
+    - You can select the history button to view the transaction history. "
+  </item>
+
+  <!--Profile-->
+
+  <item key="HOME_CONFIRMCHANGEAVATAR">CONFIRM AVATAR ?</item>
+
+  <!--Mini poker-->
+  <item key="MNPK_HELP">
+    Step 1: Choose the face value
+    Step 2: Click on the lever and wait for result
+
+    In addition, players can use the Auto Rotate function only at BUI99 by clicking on the button, the very useful feature for you to be able to spin while playing other games.
+
+    There are 3 denominations. Each face value will have a different Bonus Fund.
+    ♠ ️ The player compares the results received with the reward table to receive the prize.
+  </item>
+
+  <!--DUA CHÓ-->
+  <item key="RACINGDOG_HELP1">
+    Dog Racing is a special game in which players will bet and cheer their Dogs to get the best results, giving players an incredibly enjoyable experience.
+    Before watching and cheering for Dogs, the first thing you need to do is to bet.
+  </item>
+  <item key="RACINGDOG_HELP2">
+    TICKET
+    The bet will display the full details of the information as well as the functionality required for each bet.
+    - Choose the bet for one set, then place the bets you want, the money will be displayed accordingly.
+    - Each match lasts for 30 seconds and is displayed on the countdown, when the time is up, the race will take place.
+  </item>
+  <item key="RACINGDOG_HELP3">
+    RACETRACK
+    Besides tracking and encouraging dogs, you can see the diagram below to see the location of each dogs easier, with the corresponding icon, the position will be changed. in line with the dogs.
+  </item>
+  <item key="RACINGDOG_HELP4">
+    RESULT BOARD
+    The results table will show the ranking of the dogs, the result of your winnings in each door, corresponding to the amount of money you win.
+  </item>
+  <item key="RACINGDOG_HELP5">
+    Guide:
+    In the table, each dog will display 3 positions 1, 2, 3 corresponding to that odds.
+    You will receive a win if your dog pulls one of the top 3 positions.
+    Winnings will be calculated according to the following formula:
+    BET AMOUNT X RANKING RATE OF THE DOG AT THE END OF THE SESSION = WINNING BET
+    TOTAL BETTING MONEY ON DOGS = TOTAL MONEY OF 1 SESSION
+  </item>
+  <item key="RACINGDOG_TEXTCHAT_1">1 Run, Barry, Run....</item>
+  <item key="RACINGDOG_TEXTCHAT_2">2 Come on Babe !!!</item>
+  <item key="RACINGDOG_TEXTCHAT_3">3 Try harder!!!</item>
+  <item key="RACINGDOG_TEXTCHAT_4">4 1st Win ! 1st Win !!!!</item>
+  <item key="RACINGDOG_TEXTCHAT_5">5 Faster !!! Faster!!!</item>
+  <item key="RACINGDOG_TEXTCHAT_6">6 Winning soon !! Faster</item>
+  <item key="RACINGDOG_TEXTCHAT_7">Holy Shit !!!</item>
+  <item key="RACINGDOG_TEXTCHAT_8">Bloody Nice!!</item>
+
+  <item key="RACINGDOG_HISTORYSESSION">SESSION HISTORY</item>
+
+  <item key="POKER_BUY">BUY</item>
+  <item key="POKER_BUYMONEY">BUY CHIPS</item>
+  <item key="TX_NOTENOUNGHMONEY">NOT ENOUGH BALANCE...PLEASE TOP UP.</item>
+  <item key="TX_BLIND_ERROR">BLIND ERROR. PLEASE TRY AGAIN.</item>
+  <item key="TX_CHOOSE_WINDOWN">CHOOSE SIDE</item>
+  <item key="TX_CHOOSE_BLIND">PLEASE CHOOSE YOUR BLIND</item>
+  <item key="TX_CHOOSE_BET">PLEASE PLACE YOUR BET.</item>
+  <item key="TX_REFUNMONEY">MONEY REFUND</item>
+
+
+  <item key="XD_TOBANKER">BANKER</item>
+  <item key="XD_CANCELBANKER">CANCEL BANKER</item>
+  <item key="XD_CANCELBET">Maximum bet is {0}</item>
+  <item key="HOME_DIALOG_TRYCONNECT">TRY AGAIN</item>
+
+  <item key="DAYLY_TTITLE">AGENCY</item>
+  <item key="DAYLY_LUUY">NOTE:</item>
+  <item key="DAYLY_LUUYDES">
+  1. Minimum transfer limit is 100,000 Fun Coin, minimum balance after transfer is 10,000 Fun Coin.
+  2. The transaction fee is 2% and The player incurs this cost.
+  </item>
+  <item key="DAYLY_COUNTCHIP">VuiCoin(*)</item>
+  <item key="DAYLY_RECOUNTCHIP">ReInput VuiCoin(*)</item>
+  <item key="DAYLY_RECOUNTCHIPDES">
+    Ammount deducted: {0} VuiCoin
+  </item>
+  <item key="DAYLY_RESSONTRANFER">Tranfer reason(*)</item>
+  <item key="DAYLY_TITTLETRANFER">Tranfer to Agency {0}</item>
+  <item key="DAYLY_BTNTRANFER">Transaction</item>
+  <item key="DAYLY_ADDRESS">Address</item>
+  <item key="DAYLY_PHONE">Phone</item>
+  <item key="DAYLY_NAME">Agency Name</item>
+
+  <item key="DAYLY_INPUTMONEY">Please input VuiCoin</item>
+  <item key="DAYLY_INPUTREMONEY">Please re-input VuiCoin</item>
+  <item key="DAYLY_INPUTDESCRIPTION">Please input description</item>
+  <item key="DAYLY_MONEYOTHER">Money not match!</item>
+  <item key="REGISTER_LEAVETABLE">Register leave table success!</item>
+  <item key="CONFIRM_LEAVETABLE">Are you sure leave table?</item>
+  <item key="UPDATEINFO_INPUTPHONE">Please input phone number</item>
+  <item key="UPDATEINFO_INPUTOTP">Please input OTP code</item>
+  <item key="UPDATEINFO_GETOTP">Get OTP</item>
+  <item key="PROFILE_SDT">Phone</item>
+  <item key="HOME_DIALOG_TYPE_OTP">Please enter OTP...</item>
+  <item key="HOME_DIALOG_TYPE_TOKEN">Please enter token...</item>
+  <item key="HOME_DIALOG_OTP_FEE">Fee OTP: 1.000 Vui Coin</item>
+  
+</Language>

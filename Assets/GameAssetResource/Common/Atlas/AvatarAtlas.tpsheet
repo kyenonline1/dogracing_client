@@ -1,0 +1,35 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:60670da3eb9b957fa44c56790af8e5b4:6f7304ede57bec50fcb5c1b28613329e:a2309c3ced1e885838f8633164cba7fb$
+#
+:format=40300
+:texture=AvatarAtlas.png
+:size=512x512
+:pivotpoints=enabled
+:borders=disabled
+
+avatar00;0;276;95;95; 0.5;0.5; 0;0;0;0
+avatar01;141;417;95;95; 0.5;0.5; 0;0;0;0
+avatar02;0;180;95;95; 0.5;0.5; 0;0;0;0
+avatar03;237;417;95;95; 0.5;0.5; 0;0;0;0
+avatar04;0;84;95;95; 0.5;0.5; 0;0;0;0
+avatar05;333;417;95;95; 0.5;0.5; 0;0;0;0
+avatar06;96;276;95;95; 0.5;0.5; 0;0;0;0
+avatar07;96;180;95;95; 0.5;0.5; 0;0;0;0
+avatar08;96;84;95;95; 0.5;0.5; 0;0;0;0
+avatar09;192;321;95;95; 0.5;0.5; 0;0;0;0
+avataractive;0;372;140;140; 0.5;0.5; 0;0;0;0
+club_ava_0;0;3;80;80; 0.5;0.5; 0;0;0;0
+club_ava_1;429;432;80;80; 0.5;0.5; 0;0;0;0
+club_ava_2;81;3;80;80; 0.5;0.5; 0;0;0;0
+club_ava_3;192;240;80;80; 0.5;0.5; 0;0;0;0
+club_ava_4;288;336;80;80; 0.5;0.5; 0;0;0;0
+club_ava_5;192;159;80;80; 0.5;0.5; 0;0;0;0
+club_ava_6;192;78;80;80; 0.5;0.5; 0;0;0;0
+club_ava_7;369;336;80;80; 0.5;0.5; 0;0;0;0
+club_ava_8;273;240;80;80; 0.5;0.5; 0;0;0;0
+club_ava_9;273;159;80;80; 0.5;0.5; 0;0;0;0

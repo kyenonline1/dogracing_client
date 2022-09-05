@@ -1,0 +1,777 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Language>
+
+  <item key="ANNOUCEMENT_NOCONNECT_SERVER">Không thể kết nối đến Server. Bạn vui lòng kiểm tra lại mạng hoặc thử lại sau!</item>
+  <item key="ANNOUCEMENT_INPUTUSERNAME_ERROR">Bạn chưa nhập tên đăng nhập!</item>
+  <item key="ANNOUCEMENT_INPUTNICKNAME_ERROR">Bạn chưa nhập tên hiển thị!</item>
+  <item key="ANNOUCEMENT_INPUTPASSWORD_ERROR">Bạn chưa nhập mật khẩu!</item>
+  <item key="ANNOUCEMENT_INPUTCONFIRM_PASSWORD_ERROR">Bạn chưa nhập lại mật khẩu!</item>
+  <item key="ANNOUCEMENT_INPUTCAPCHA_ERROR">Bạn chưa nhập Capcha!</item>
+  <item key="ANNOUCEMENT_PASSWORD_NOTDUBLICATE">Mật khẩu không trùng nhau. Vui lòng kiểm tra lại!</item>
+  
+  <item key="HOME_LOGIN">ĐĂNG NHẬP</item>
+  <item key="HOME_REGISTER">ĐĂNG KÝ</item>
+  <item key="HOME_DEFAULT_INPUT_USERNAME">Tên tài khoản...</item>
+  <item key="HOME_DEFAULT_INPUT_PASSWORD">Mật khẩu...</item>
+  <item key="HOME_REMEM_PASSWORD">Nhớ mật khẩu</item>
+  <item key="HOME_FOGET_PASSWORD">Quên mật khẩu</item>
+  <item key="HOME_FACEBOOK">FACEBOOK</item>
+  <item key="HOME_PLAYTRIAL">CHƠI NGAY</item>
+  <item key="HOME_LOGIN_ORTHER">Đăng nhập Facebook</item>
+  <item key="HOME_LANGUAGE">Ngôn ngữ</item>
+
+  <item key="HOME_DEFAULT_NICKNAME">Tên hiển thị trong game...</item>
+  <item key="HOME_DEFAULT_CONFIRM_PASSWORD">Xác nhận mật khẩu...</item>
+  <item key="HOME_DEFAULT_CAPCHA">Mã xác nhận...</item>
+  <item key="HOME_DEFAULT_BACK">Quay lại</item>
+  <item key="HOME_IGNORE">BỎ QUA</item>
+
+  <item key="HOME_DIALOG_TITTLE">THÔNG BÁO</item>
+  <item key="HOME_DIALOG_EDIT">SỬA THÔNG BÁO</item>
+  <item key="HOME_DIALOG_INPUT_THONGBAO">Nhập nội dung thông báo...</item>
+  <item key="HOME_DIALOG_CLOSE">ĐÓNG</item>
+  <item key="HOME_DIALOG_OKE">ĐỒNG Ý</item>
+  <item key="HOME_DIALOG_CANCEL">HỦY</item>
+  <item key="HOME_DIALOG_REPLAY">XEM LẠI</item>
+  <item key="HOME_DIALOG_END_HISTORY">Ván đấu đã kết thúc, bạn có muốn xem lại?</item>
+  
+  <item key="HOME_DIALOG_TITTLE_EXCHANGE">ĐỔI THƯỞNG</item>
+  <item key="HOME_DIALOG_TITTLE_EXCHANGE_CARD">THẺ CÀO</item>
+  <item key="HOME_DIALOG_TITTLE_EXCHANGE_BANK">NGÂN HÀNG</item>
+  <item key="HOME_DIALOG_CARD">THẺ CÀO</item>
+  <item key="HOME_DIALOG_ITEM">VẬT PHẨM</item>
+  <item key="HOME_DIALOG_HISTORY">LỊCH SỬ</item>
+  <item key="HOME_DIALOG_STT">Stt</item>
+  <item key="HOME_DIALOG_TIME">Thời gian</item>
+  <item key="HOME_DIALOG_STATUS">Trạng thái</item>
+  <item key="HOME_DIALOG_ITEM_NOMARL">Vật phẩm</item>
+  <item key="HOME_DIALOG_CONFIRM_EXCHANE">Bạn có chắc chắn đổi {0} với giá {1} ?</item>
+  <item key="HOME_DIALOG_CONFIRM_OK">Đổi thưởng</item>
+  <item key="HOME_DIALOG_EXCHANGE_CODE">MT</item>
+
+  <item key="HOME_DIALOG_NODATA">Không có dữ liệu!</item>
+
+  <item key="HOME_DIALOG_TITTLE_GIFTCODE">GIFT CODE</item>
+  <item key="HOME_DIALOG_NOMARL_GIFTCODE">Gift Code</item>
+  <item key="HOME_DIALOG_TYPE_GIFTCODE">Nhập mã GIFTCODE...</item>
+  <item key="HOME_DIALOG_CONFIRM">NHẬN GIFCODE</item>
+
+  <item key="HOME_DIALOG_TYPE_CODE">Nhập mã thẻ...</item>
+  <item key="HOME_DIALOG_TYPE_SERIAL">Nhập số Serial...</item>
+  <item key="HOME_DIALOG_CHARINGCARD">NẠP THẺ</item>
+
+  <item key="HOME_DIALOG_SYSTEM">HỆ THỐNG</item>
+  <item key="HOME_DIALOG_PERSONAL">CÁ NHÂN</item>
+
+  <item key="HOME_DIALOG_PRORILE_TITLE">THÔNG TIN</item>
+  <item key="HOME_DIALOG_UPDATE_PHONE">CẬP NHẬT SĐT</item>
+  <item key="HOME_DIALOG_VIP">VIP</item>
+
+  <item key="HOME_DIALOG_TITTLE_SETTING">CÀI ĐẶT</item>
+  <item key="HOME_DIALOG_SETTING_SOUND_EFFECT">Âm thanh</item>
+  <item key="HOME_DIALOG_SETTING_LINK_EMAIL">Liên kết Email của bạn</item>
+  <item key="HOME_DIALOG_SETTING_CHANGE_PASSWORD">Đổi mật khẩu</item>
+  <item key="HOME_DIALOG_SETTING_REDEEM_CODE">Redeem Giftcode</item>
+  <item key="HOME_DIALOG_SOUND">Âm thanh</item>
+  <item key="HOME_DIALOG_VIBRATION">Báo rung</item>
+  <item key="HOME_DIALOG_ACCEPT_INVITE">Nhận lời mời</item>
+
+  <item key="HOME_DIALOG_TYPE_PHONE">Vui lòng nhập SĐT...</item>
+  <item key="HOME_DIALOG_UPDATE">CẬP NHẬT</item>
+  
+  <item key="HOME_DIALOG_LOADCAPCHA_ERROR">Tải capcha thất bại</item>
+  <item key="HOME_DIALOG_CONFIRM_LOGOUT">Bạn có muốn đăng xuất tài khoản?</item>
+  <item key="HOME_DIALOG_OKE_LOGOUT">Đăng xuất</item>
+  <item key="HOME_DIALOG_ENOUND_MONEY">Số dư không đủ, Vui lòng nạp thêm để chơi.</item>
+  <item key="HOME_DIALOG_CHARGER_NOW">Nạp ngay</item>
+  <item key="HOME_DIALOG_LATER">Để sau</item>
+  <item key="HOME_DIALOG_TRYCONNECT">Thử lại</item>
+
+  <item key="HOME_DIALOG_PROFILE_EXP">Kinh nghiệm</item>
+
+  <item key="HOME_DIALOG_TOP_TITTLE">BẢNG XẾP HẠNG</item>
+  <item key="HOME_DIALOG_TOP_ACCOUNT">Tài khoản</item>
+  <item key="HOME_DIALOG_TOP_TIME">Thời gian</item>
+  <item key="HOME_DIALOG_TOP_TYPE_JACKPOT">Loại hũ</item>
+  <item key="HOME_DIALOG_TOP_WINMONEY">Tiền thắng</item>
+  <item key="HOME_DIALOG_TOP_MONEYINDAY">Tiền thắng trong ngày</item>
+  <item key="HOME_DIALOG_TOP_VIP">Mức VIP</item>
+  <item key="HOME_DIALOG_TOP_VIPPOINT">Điểm VIP</item>
+  <item key="HOME_DIALOG_TOP_EXCHANGE">Số lần đổi thưởng</item>
+  <item key="HOME_DIALOG_TOP_SUMEXCHANGE">Tổng giá trị đổi thưởng</item>
+  <item key="HOME_DIALOG_TOP_MONEY">Tiền</item>
+
+  <item key="HOME_DIALOG_TITTLE_MESSAGE">TIN NHẮN</item>
+
+  <item key="HOME_DIALOG_JOIN_GAME_ERROR">Tải dữ liệu thất bại!</item>
+  <item key="HOME_TABLE_VIP">Bàn VIP!</item>
+  <item key="HOME_TABLE_NOMARL">Bàn thường!</item>
+
+
+  <item key="HOME_CHANGE_PASS_INPUTPASSWORD">Mật khẩu cũ...</item>
+  <item key="HOME_CHANGE_PASS_INPUT_NEWPASSWORD">Mật khẩu mới...</item>
+  <item key="HOME_CHANGE_PASS_REINPUT_NEWPASSWORD">Nhập lại mật khẩu mới...</item>
+  <item key="HOME_CHANGE_PASS_CONFIRM">CẬP NHẬT MẬT KHẨU</item>
+  <item key="HOME_CHANGE_PASS_TITTLE">ĐỔI MẬT KHẨU</item>
+
+
+  <item key="HOME_SECURITY_INPUT_PHONE">Số điện thoại...</item>
+  <item key="HOME_SECURITY_INPUT_OTP">Mã OTP...</item>
+  <item key="HOME_SECURITY_TITTLE">BẢO MẬT</item>
+  <item key="HOME_SECURITY_UPDATE_PHONE">CẬP NHẬT SĐT</item>
+  <item key="HOME_SECURITY_CHANGE_PHONE">ĐỔI SĐT</item>
+
+  <item key="HOME_CHANGE_PASS_NO_INPUTPASS">Vui lòng nhập mật khẩu cũ.</item>
+  <item key="HOME_CHANGE_PASS_NO_PASS_NOT_MATCH">Mật khẩu cũ không chính xác.</item>
+  <item key="HOME_CHANGE_PASS_NO_INPUT_NEWPASS">Vui lòng nhập mật khẩu mới.</item>
+  <item key="HOME_CHANGE_PASS_NO_INPUT_RENEWPASS">Vui lòng nhập lại mật khẩu mới.</item>
+  <item key="HOME_CHANGE_PASS_NEW_PASS_NOT_MATCH">Mật khẩu mới không khớp.</item>
+
+
+  <item key="HOME_CHANGE_PHONE_NO_INPUT_OTP">Vui lòng mã OTP.</item>
+  <item key="HOME_CHANGE_PHONE_NO_INPUT_PHONE">Vui lòng SĐT.</item>
+  <item key="HOME_CHANGE_PHONE_NO_INPUT_VALIDATE">SĐT không hợp lệ.</item>
+  <item key="HOME_CHANGE_PHONE_NO_UPDATE_PHONE">Vui lòng cập nhật số điện thoại.</item>
+  
+  <item key="HOME_CHANGE_PASS_NOTE">
+    Cập nhật OTP để bảo mật tài khoản và được quà tặng
+    - BƯỚC 1: Nhập số điện thoại và ấn lấy OTP
+    - BƯỚC 2: Nhập OTP bạn vừa nhận và ấn cập nhật
+    &#60;color=yellow&#62;LƯU Ý:&#60;/color&#62;
+    - Lần thứ hai tính phí 1.000 Chip
+  </item>
+  
+   <item key="HOME_CHANGE_PASS_SENDOTP_OLDPASS">OTP sẽ được gửi về SĐT cũ.</item>
+
+
+  <item key="LOBBY_PRIFILE_TITTLE">THÔNG TIN CÁ NHÂN</item>
+  <item key="LOBBY_PRIFILE_TITTLE_CHANGE_AVATAR">ĐỔI ẢNH ĐẠI DIỆN</item>
+  <item key="LOBBY_PRIFILE_CONFIRM_CHANGE_AVATAR">ĐỔI</item>
+  
+  <item key="LOBBY_SHOP_TITTLE">CỬA HÀNG</item>
+  <item key="LOBBY_SHOP_AGENTCY_CATE">ĐẠI LÝ</item>
+  <item key="LOBBY_SHOP_TRANFER_CATE">CHUYỂN TIỀN</item>
+  <item key="LOBBY_SHOP_CHARGER_CATE">NẠP TIỀN</item>
+  <item key="LOBBY_SHOP_EXCHANGE_CATE">ĐỔI THƯỞNG</item>
+  <item key="LOBBY_SHOP_HISTORY_CATE">LỊCH SỬ</item>
+  <item key="LOBBY_SHOP_HISTORY_CHARGER_CATE">LỊCH SỬ NẠP</item>
+  <item key="LOBBY_SHOP_HISTORY_EXCHANGE_CATE">LỊCH SỬ ĐỔI</item>
+  <item key="LOBBY_SHOP_HISTORY_TRANFER_CATE">LỊCH SỬ CHUYỂN TIỀN</item>
+  
+  
+  <item key="LOBBY_AGENTCY_VIETNAM_CATE">ĐẠI LÝ VIỆT NAM</item>
+  <item key="LOBBY_AGENTCY_INTERNATIONAL_CATE">ĐẠI LÝ QUỐC TẾ</item>
+  <item key="LOBBY_AGENTCY_STT">STT</item>
+  <item key="LOBBY_AGENTCY_NAME">Tên Đại Lý</item>
+  <item key="LOBBY_AGENTCY_ACCOUNT">Tên Tài Khoản</item>
+  <item key="LOBBY_AGENTCY_PHONENUMBER">Số ĐT</item>
+  <item key="LOBBY_AGENTCY_TRANSACTION">GIAO DỊCH</item>
+  
+  <item key="LOBBY_AGENTCY_VIP1">ĐL VIP1</item>
+  <item key="LOBBY_AGENTCY_VIP2">ĐL VIP2</item>
+  <item key="LOBBY_AGENTCY_VIP3">ĐL VIP3</item>
+  
+  
+  <item key="LOBBY_TRANFER_AGENCTY">BÁN ĐẠI LÝ</item>
+  <item key="LOBBY_TRANFER_PERSONAL">CÁ NHÂN</item>
+  <item key="LOBBY_TRANFER_MANYPEOPLE">NHIỀU NGƯỜI</item>
+  
+  
+  <item key="LOBBY_TRANFER_INPUT_NICKNAME">Nhập tên Đại lý nhận...</item>
+  <item key="LOBBY_TRANFER_INPUT_MONEY_TRANFER">Nhập số tiền cần chuyển...</item>
+  <item key="LOBBY_TRANFER_ACTUALLY_RECEIVED">Phí chuyển</item>
+  <item key="LOBBY_TRANFER_CONTINUE">TIẾP TỤC</item>
+  <item key="LOBBY_TRANFER_CONFIRM">CHUYỂN KHOẢN</item>
+  <item key="LOBBY_TRANFER_AGENCY_OFFER">ĐẠI LÝ ĐỀ XUẤT</item>
+  <item key="LOBBY_TRANFER_AGENCY_RULE">QUY ĐỊNH</item>
+  <item key="LOBBY_TRANFER_AGENCY_DESCRIPTION">Tên + STK + Nội dung</item>
+  <item key="LOBBY_TRANFER_NO_USER_RECEICED">Vui lòng nhập người nhận.</item>
+  <item key="LOBBY_TRANFER_NO_MONEY_RECEICED">Vui lòng nhập số tiền cần chuyển.</item>
+  <item key="LOBBY_TRANFER_NO_DESCRIPTION_RECEICED">Vui lòng nhập nội dung chuyển khoản.</item>
+  <item key="LOBBY_TRANFER_NO_CAPCHA">Vui lòng nhập mã Capcha.</item>
+
+  <item key="LOBBY_TRANFER_TEXT">CHUYỂN</item>
+  <item key="LOBBY_TRANFER_INPUT_NICKNAME_NORMAL">Nhập tên nhân vật...</item>
+  <item key="LOBBY_TRANFER_USER_DESCRIPTION">Lời nhắn...</item>
+  <item key="LOBBY_TRANFER_TOTALCOIN">Tổng nhận:</item>
+  <item key="LOBBY_TRANFER_ADDUSER">THÊM NGƯỜI NHẬN</item>
+  <item key="LOBBY_TRANFER_NOTE_ADDUSER">Tối đa 5 người</item>
+  <item key="LOBBY_TRANFER_NO_ADDUSER">Bạn chưa thêm người nhận.</item>
+  <item key="LOBBY_TRANFER_MAX_ADDUSER">Chỉ được chọn tối đa 5 người</item>
+  
+  <item key="LOBBY_TRANFER_RULE">
+    Quy định chuyển khoản:
+    - Giá trị giao dịch tối thiểu 10.000
+    - không giới hạn giá trị giao dịch tối đa và số lần giao dịch trong ngày.
+    &#60;color=yellow&#62;Chú ý:&#60;/color&#62;
+    - Tên nhân vật là tên hiển thị trong game, không phải tên tài khoản đăng nhập.
+    - Các giao dịch chuyển nhầm tên tài khoản được tính là giao dịch hợp lệ và không được hoàn trả.
+    Bạn vui lòng kiểm tra lại tên nhân vật nhận trước khi thực hiện giao dịch.
+  </item>
+  
+  <item key="LOBBY_TRANFER_AGENCY_USERNAME">TÊN GD</item>
+  <item key="LOBBY_TRANFER_AGENCY_PHONENUMBER">SỐ ĐT</item>
+
+  <item key="LOBBY_CHARGE_NO_INPUT_SERIAL">Chưa nhập Serial</item>
+  <item key="LOBBY_CHARGE_NO_INPUT_CARD_NUMBER">Chưa nhập mã thẻ</item>
+
+  <item key="LOBBY_CHARGE_MOMO_HAN_MUC_GIAO_DICH">Hạn mức giao dịch: {0} - {1} VNĐ</item>
+  <item key="LOBBY_CHARGE_MOMO_ACCOUNT_INFO">Chuyển tiền đến tài khoản</item>
+  <item key="LOBBY_CHARGE_MOMO_ACCOUNT_DESCRIPTION">Nội dung chuyển tiền</item>
+  <item key="LOBBY_CHARGE_MOMO_COPPY">Sao chép</item>
+  <item key="LOBBY_CHARGE_MOMO_COPPY_SUCCESS">Đã sao chép!!!</item>
+
+  <item key="LOBBY_CHARGE_PRICE">MỆNH GIÁ</item>
+  <item key="LOBBY_CHARGE_RATE">Tỷ giá hiện tại</item>
+
+
+  <item key="LOBBY_CHARGE_BANK_CHANGE_AUTO">Tự động 100%</item>
+  <item key="LOBBY_CHARGE_BANK_CHANGE_BANK">Thay đổi Ngân Hàng</item>
+
+  <item key="LOBBY_CHARGE_MOMO_NOTE">Không hỗ trợ hoàn tiền nếu:
+  &#60;color=red&#62;Sai nội dung&#60;/color&#62;
+  &#60;color=red&#62;Sai số tài khoản nhận&#60;/color&#62;
+  Nếu giao dịch quá 10 phút chưa thành công, liên hệ CSKH đễ được hỗ trợ.Không gọi điện đến SĐT nhận.
+  </item>
+
+  <item key="LOBBY_CHARGE_BANK_NOTE">Lưu ý:
+  - Kiểm tra đúng số tài khoản nhận tiền và nội dung chuyển tiền(Không giải quyết các trường hợp nhập sai)
+  </item>
+
+  <item key="LOBBY_CHARGE_BANK_HAN_MUC_GIAO_DICH">Hạn mức giao dịch: {0} - {1} VNĐ.</item>
+  <item key="LOBBY_CHARGE_BANK_CONTINUE">NẠP TIẾP</item>
+  <item key="LOBBY_CHARGE_BANK_CHOOSE_BANK">CHỌN NGÂN HÀNG</item>
+  <item key="LOBBY_CHARGE_BANK_NOTE_DESCRIPTION">Bạn vui lòng ghi đúng nội dung và chuyển tiền đến STK trên.</item>
+
+
+  <item key="LOBBY_SHOP_HISTORY_TIME">THỜI GIAN</item>
+  <item key="LOBBY_SHOP_HISTORY_SERVICE">DỊCH VỤ</item>
+  <item key="LOBBY_SHOP_HISTORY_INFOMATION">CHI TIẾT</item>
+  <item key="LOBBY_SHOP_HISTORY_VALUE">GIÁ TRỊ</item>
+  <item key="LOBBY_SHOP_HISTORY_STATUS">TRẠNG THÁI</item>
+  <item key="LOBBY_SHOP_HISTORY_CONTENT">NỘI DUNG</item>
+
+  <item key="LOBBY_SHOP_HISTORY_USER_TRANFER">NGƯỜI CHUYỂN</item>
+  <item key="LOBBY_SHOP_HISTORY_USER_RECEIVED">NGƯỜI NHẬN</item>
+
+
+  <item key="LOBBY_SHOP_EXCHANGE_NO_INPUTMONEY">Bạn chưa nhập mệnh giá.</item>
+  <item key="LOBBY_SHOP_EXCHANGE_NO_INPUTACCOUNTNUMBER">Bạn chưa nhập số tài khoản Ngân hàng.</item>
+  <item key="LOBBY_SHOP_EXCHANGE_NO_INPUTACCOUNTNAME">Bạn chưa nhập tên chủ tài khoản Ngân hàng.</item>
+  <item key="LOBBY_SHOP_EXCHANGE_INPUT_ACCOUNTNUMBER">Nhập số tài khoản Ngân hàng...</item>
+  <item key="LOBBY_SHOP_EXCHANGE_INPUT_ACCOUNTNAME">Nhập tên chủ tài khoản Ngân hàng...</item>
+  <item key="LOBBY_SHOP_EXCHANGE_NO_INPUT_MOMO_ACCOUNT">Bạn chưa nhập SĐT Momo.</item>
+
+
+  <item key="LOBBY_MISSION_TITTLE">NHIỆM VỤ</item>
+  <item key="LOBBY_MISSION_RECEIVED">Đã nhận</item>
+  <item key="LOBBY_MISSION_RECEIVE_REWARD">NHẬN THƯỞNG</item>
+  <item key="LOBBY_MISSION_RECEIVE">Nhận: {0}</item>
+  <item key="LOBBY_MISSION_CHARGER">Nạp {0}</item>
+  <item key="LOBBY_MISSION_PLAYNOW">Chơi Ngay</item>
+  <item key="LOBBY_MISSION_REWARD">Phần thưởng:</item>
+
+  <item key="LOBBY_SPIN_ALL">Tất cả</item>
+  <item key="LOBBY_SPIN_NORMAL">Bàn thường</item>
+  <item key="LOBBY_DEXUAT">Đề Xuất</item>
+  <item key="LOBBY_SPIN_TABLE">SpinUp</item>
+  <item key="LOBBY_MTT_TABLE">MTT</item>
+  <item key="LOBBY_START_GAME_LATE">Bắt đầu sau</item>
+  <item key="LOBBY_START_GAME_PLAYING">Đang diễn ra</item>
+  <item key="LOBBY_REGISTER_ENDS_IN">Reg. ends in</item>
+  <item key="LOBBY_REGISTER_TOUR">Đăng ký</item>
+  <item key="LOBBY_LATE_REGISTER_TOUR">Đăng ký muộn</item>
+  <item key="LOBBY_JOIN_TOUR">Vào Game</item>
+  <item key="LOBBY_VIEW_TOUR">Quan sát</item>
+  <item key="LOBBY_REGISTED_TOUR">ĐÃ ĐĂNG KÝ</item>
+  <item key="LOBBY_END_TOUR">Đã kết thúc</item>
+
+
+  <item key="LOBBY_SPINUP_TITTLE">SPINUP</item>
+  <item key="LOBBY_SPINUP_NOTE_POPUP">Đã đăng ký. Quỹ giải thưởng sẽ được quay khi bàn đủ người.</item>
+  <item key="LOBBY_SPINUP_WAITTING_PLAYER_POPUP">Đang chờ {0} người chơi</item>
+  <item key="LOBBY_SPINUP_WAITTING_PLAYER">Vui lòng đợi người chơi mới.</item>
+
+
+  <item key="LOBBY_JOIN_TOUR_TITTLE">Thông báo Tournament</item>
+  <item key="LOBBY_OK_JOINTOUR">Tham gia</item>
+
+
+  <item key="LOBBY_TITTLE_TOUR_DETAIL">THÔNG TIN GAME</item>
+  <item key="LOBBY_TEXT_TAB_DETAIL_TOUR">Chi tiết</item>
+  <item key="LOBBY_TEXT_TAB_COUNTJOIN_TOUR">Lượt vào</item>
+  <item key="LOBBY_TEXT_TAB_COUNTTABLE_TOUR">Bàn</item>
+  <item key="LOBBY_TEXT_TAB_REWARD_TOUR">Giải thưởng</item>
+  <item key="LOBBY_TEXT_BLIND_TIMEUP">Tăng Blind</item>
+  <item key="LOBBY_TEXT_REGISTER_LATE">Đăng ký muộn</item>
+  <item key="LOBBY_TEXT_CURRENT_LEVEL">Cấp độ hiện tại</item>
+
+
+  <item key="LOBBY_TEXT_LEVEL_REWARD">Xếp Hạng</item>
+  <item key="LOBBY_TEXT_VALUE_REWARD">Phần Thưởng</item>
+  
+  
+  <item key="LOBBY_DETAIL_PRIZE_FUND">Quỹ giải thưởng:</item>
+  <item key="LOBBY_DETAIL_FEE_TOUR">Phí tham gia:</item>
+  <item key="LOBBY_DETAIL_SUBSCRIPTIONS">Lượt vào:</item>
+  <item key="LOBBY_DETAIL_CHIP_START">Chip khởi đầu:</item>
+  <item key="LOBBY_DETAIL_TOTAL_PLAYER">Phạm vi vào chơi:</item>
+  <item key="LOBBY_DETAIL_STACK_MEDIUM">Stack trung bình:</item>
+  <item key="LOBBY_DETAIL_REBUY">Rebuy:</item>
+  <item key="LOBBY_DETAIL_ADD_ON">Add-on:</item>
+  <item key="LOBBY_DETAIL_BREAK">Giải lao:</item>
+  <item key="LOBBY_DETAIL_BLINDS">Cơ cấu Blind:</item>
+  <item key="LOBBY_DETAIL_TOUR_PLAYING">Đang chơi:</item>
+  <item key="LOBBY_DETAIL_TIME_STARTGAME">Giờ bắt đầu:</item>
+  <item key="LOBBY_DETAIL_END_REGISTER">Đã kết thúc đăng ký</item>
+  <item key="LOBBY_DETAIL_TIME_END_REGISTER">Đăng ký kết thúc:</item>
+  <item key="LOBBY_DETAIL_BLIND">Mức Cược</item>
+  <item key="LOBBY_DETAIL_BREAKS">Giải lao</item>
+  <item key="LOBBY_DETAIL_TOTAL_PLAYER_REGISTER">ĐÃ GHI DANH</item>
+  <item key="LOBBY_DETAIL_REBUY_TOUR">Không giới hạn</item>
+  <item key="LOBBY_DETAIL_NO_REBUY_TOUR">Không</item>
+  <item key="LOBBY_DETAIL_FEE_TOUR">Phí:</item>
+  <item key="LOBBY_DETAIL_FEE_GAME">Phế</item>
+  <item key="LOBBY_DETAIL_FREE_COST">Miễn phí</item>
+  
+  <item key="LOBBY_DETAIL_TOURBO_SPINUP">TOURBO</item>
+  <item key="LOBBY_DETAIL_LEVEL_BLIND_SPINUP">CẤP ĐỘ</item>
+  <item key="LOBBY_DETAIL_SMAILL_BLIND_SPINUP">SMALL BLIND</item>
+  <item key="LOBBY_DETAIL_BIG_BLIND_SPINUP">BIG BLIND</item>
+  <item key="LOBBY_DETAIL_BLIND_TOUR">BLIND</item>
+  <item key="LOBBY_DETAIL_ANTER_TOUR">ANTE</item>
+
+
+  <item key="LOBBY_DETAIL_COUNT_TABLE">Số lương bàn:</item>
+  
+  
+  <item key="LOBBY_DETAIL_SPINUP_COUT_REGISTER">Lượt vào:</item>
+  <item key="LOBBY_DETAIL_SPINUP_BLINDUP">Tăng Blind:</item>
+  <item key="LOBBY_DETAIL_SPINUP_REWARD">Cơ cấu giải thưởng</item>
+  <item key="LOBBY_DETAIL_SPINUP_REWARD_RULE">Quỹ giải thưởng là tổng tiền phí tham gia của 3 người chơi. Người thắng lấy toàn bộ. NPH thu phế {0}% của tổng giải thưởng.</item>
+  <item key="LOBBY_DETAIL_SPINUP_RE_ROTATE">Quay lại</item>
+  <item key="LOBBY_DETAIL_SPINUP_RULE_ROTATE">Khi quỹ giải thưởng gấp đôi phí vào chơi thì tính năng quay lại sẽ được áp dụng. Điều này đồi hỏi phải có sự chấp thuận của cả ba người chơi và tốn 30% phí vào chơi để quay lại. Tính năng quay lại sẽ tăng cơ hội có hệ số quỹ giải thưởng cao hơn.</item>
+
+
+  <item key="PROFILE_REVIEW_THE_HAND">Đánh giá ván bài</item>
+  <item key="PROFILE_FEEDBACK">Phản hồi</item>
+  <item key="PROFILE_LIENHE">Trung tâm hỗ trợ</item>
+  <item key="PROFILE_SETTING">Cài đặt</item>
+  <item key="PROFILE_SECURITY">Bảo mật</item>
+  <item key="PROFILE_INTRODUCE">Giới thiệu</item>
+  <item key="PROFILE_PROVISION">Điều khoản</item>
+  <item key="PROFILE_REFERAL_CODE">Mã giới thiệu</item>
+  <item key="PROFILE_USER_INFO_TITTLE">CHI TIẾT THÀNH VIÊN</item>
+
+
+  <item key="CLUB_TITTLE">CÂU LẠC BỘ</item>
+  <item key="CLUB_PROFILE_TITTLE">HỒ SƠ CLB</item>
+  <item key="CLUB_NOTIFICATION_TITTLE">Thông báo Câu lạc bộ</item>
+  <item key="CLUB_EDIT">Sửa</item>
+  <item key="CLUB_USER_CLUB">DANH SÁCH THÀNH VIÊN CLB</item>
+  <item key="CLUB_MEMBER_CLUB">Thành viên</item>
+  <item key="CLUB_NEW_MEMBER_CLUB">Thành viên mới</item>
+  <item key="CLUB_SEARCH_MEMBER_CLUB">Tìm thành viên</item>
+  <item key="CLUB_COST_CLUB">Phí</item>
+  <item key="CLUB_PROFILE_CLUB_NAME">Tên CLB</item>
+  <item key="CLUB_LIMIT_EDIT_CLUB_NAME">Miễn phí đổi tên CLB lần đầu</item>
+  <item key="CLUB_INPUT_CLUB_NAME">Nhập tên CLUB...</item>
+  <item key="CLUB_INPUT_NOTI_NAME">Nhập thông báo...</item>
+
+  <item key="CLUB_TAB_USER">Thành viên</item>
+  <item key="CLUB_TAB_TRANFER">Chuyển tiền</item>
+  <item key="CLUB_TAB_DATA">Dữ liệu</item>
+  <item key="CLUB_TAB_ADMIN">Quản trị</item>
+  <item key="CLUB_TAB_FOLOW_USER">Theo dõi người chơi</item>
+  <item key="CLUB_TAB_MANAGER">Quản lý</item>
+  <item key="CLUB_TAB_AGENCY">Đại lý</item>
+  <item key="CLUB_TAB_REMOVE_USER">Xóa thành viên</item>
+  <item key="CLUB_TAB_YESTERDAY">Hôm qua</item>
+  <item key="CLUB_TAB_WEEKFINAL">7 ngày cuối</item>
+  <item key="CLUB_TAB_SELECTED">Chọn</item>
+  <item key="CLUB_CALENDAR_YEAR">Năm</item>
+  <item key="CLUB_CALENDAR_MONTH">Tháng</item>
+  <item key="CLUB_CALENDAR_STARTTIME">Từ ngày</item>
+  <item key="CLUB_CALENDAR_ENDTIME">Đến ngày</item>
+
+
+  <item key="CLUB_DATA_MATCH">Ván đấu</item>
+  <item key="CLUB_DATA_MONEY_PLAYER_WIN">Tiền thắng của Người chơi</item>
+  <item key="CLUB_DATA_REWARD_SPINUP">Trả thưởng SpinUp</item>
+  <item key="CLUB_DATA_REWARD_RECEIVE_SPINUP">Thu nhập SpinUp</item>
+
+  <item key="CLUB_HEADER_MONEYWIN">Tiền thắng</item>
+  <item key="CLUB_HEADER_VANBAI">Ván bài</item>
+  <item key="CLUB_HEADER_MONEYWIN_MTT">Tiền thắng MTT</item>
+  <item key="CLUB_HEADER_COST_JOIN_SPINUP">Phí vào chơi SpinUp</item>
+  <item key="CLUB_HEADER_COST">Phí</item>
+  
+  <item key="CLUB_DATA_DETAIL">DỮ LIỆU CLB</item>
+  
+  
+  <item key="CLUB_JOIN_CLUB_TITTLE">THAM GIA CLUB</item>
+  <item key="CLUB_JOIN_CLUB_ID">Nhập Id Club</item>
+  <item key="CLUB_JOIN_CLUB_USER_INTRODUCE">Nhập Id người giới thiệu(tùy chọn)</item>
+  <item key="CLUB_JOIN_CLUB_BTN">Tham gia Club</item>
+  <item key="CLUB_JOIN_CLUB_CREATE_CLB">Tạo Club</item>
+  <item key="CLUB_JOIN_CLUB_NO_INPUT_CLUBID">Bạn chưa nhập ClubId</item>
+  <item key="CLUB_JOIN_CLUB_FILLTER_TABLE_PLAYING">Bàn đang chơi</item>
+  <item key="CLUB_JOIN_CLUB_HIDEN_TABLE_FULL">Ẩn bàn hết chỗ trống</item>
+  
+  
+  <item key="CLUB_EMAIL_TITTLE">HÒM THƯ</item>
+  <item key="CLUB_EMAIL_CONTENT_TITTLE">NỘI DUNG THƯ</item>
+  <item key="CLUB_EMAIL_REMOVE_EMAIL">Xóa thư đã đọc</item>
+  <item key="CLUB_EMAIL_REMOVE_NOTE">Thư sẽ tự động xóa sau 30 ngày</item>
+  <item key="CLUB_EMAIL_NODATA">Không có dữ liệu.</item>
+  <item key="CLUB_EMAIL_NOINPUT_EDIT">Vui lòng nhập thông báo muốn sửa.</item>
+  <item key="CLUB_EMAIL_NO_ANNOUNCEMENT">Chưa có thông báo.</item>
+
+
+  <item key="CLUB_CREATE_TABLE_TITTLE">TẠO VÁN ĐẤU</item>
+  <item key="CLUB_CREATE_TABLE_NO_NAME_TABLE">Bàn chưa có tên</item>
+  <item key="CLUB_CREATE_TABLE_REMAINTIME">Thời gian hành động:</item>
+  <item key="CLUB_CREATE_TABLE_CREATETABLE">TẠO</item>
+  <item key="CLUB_CREATE_TABLE_AUTO_START">Tự động Bắt đầu</item>
+  <item key="CLUB_CREATE_TABLE_MAX_PLAYER">Người chơi tối đa trong bàn</item>
+  <item key="CLUB_CREATE_TABLE_COST">Phí vào chơi:</item>
+  <item key="CLUB_CREATE_TABLE_COST_INPUT">Nhập phí...</item>
+  <item key="CLUB_CREATE_TABLE_CHIP_START">Chip khởi đầu: {0}</item>
+  <item key="CLUB_CREATE_TABLE_BLIND_UP">Tăng Blind: {0}</item>
+  <item key="CLUB_CREATE_TABLE_BLIND_MODE">Cơ cấu Blind</item>
+  <item key="CLUB_CREATE_TABLE_BLIND_NORMAL">Tiêu chuẩn</item>
+  <item key="CLUB_CREATE_TABLE_BLIND_TURBO">Turbo</item>
+  <item key="CLUB_CREATE_TABLE_AUTO_CREATE">Tự động mở bàn</item>
+  <item key="CLUB_CREATE_TABLE_TOUR_NAME">Tên giải đấu...</item>
+  <item key="CLUB_CREATE_TABLE_NORMAL">Ván đấu vòng tròn</item>
+  <item key="CLUB_CREATE_TABLE_COST_CLB">Phí CLUB thu:</item>
+  <item key="CLUB_CREATE_TABLE_COST_INPUT_2">Nhập...</item>
+  <item key="CLUB_CREATE_TABLE_COST_ADDON">Phí Add-on</item>
+  <item key="CLUB_CREATE_TABLE_COST_REBUY">Phí Rebuy</item>
+  
+  <item key="CLUB_CREATE_TABLE_BLIND">Blind</item>
+  <item key="CLUB_CREATE_TABLE_CASHIN">Tiền vào bàn</item>
+  <item key="CLUB_CREATE_TABLE_TIME_REMAIN">Thời gian còn lại</item>
+  <item key="CLUB_CREATE_TABLE_CLOSE_ADDON">Level đóng đăng ký muộn:</item>
+  <item key="CLUB_CREATE_TABLE_COUNT_REBUY">Lượt Rebuy</item>
+  <item key="CLUB_CREATE_TABLE_MAXPLAYER">Người chơi tối đa</item>
+  <item key="CLUB_CREATE_TABLE_MINPLAYER">Người chơi tối thiểu</item>
+  <item key="CLUB_CREATE_TABLE_ANNOUN_MAXPLAYER">Người chơi tối đa là 1000</item>
+  <item key="CLUB_CREATE_TABLE_ANNOUN_MINPLAYER">Người chơi tối thiểu là 2</item>
+  <item key="CLUB_CREATE_TABLE_TIME_BLINDUP">Thời gian tăng Blind</item>
+  <item key="CLUB_CREATE_TABLE_TIME_GIAILAO">Thời gian giải lao: 5 phút sau mỗi 55 phút</item>
+  <item key="CLUB_CREATE_TABLE_TIME_START_TOUR">Thời gian bắt đầu Tour</item>
+  <item key="CLUB_CREATE_TABLE_DAY_START_TOUR">Ngày bắt đầu</item>
+  <item key="CLUB_CREATE_TABLE_HOURS_START_TOUR">Giờ bắt đầu</item>
+  <item key="CLUB_CREATE_TABLE_MINS_START_TOUR">Phút bắt đầu</item>
+  <item key="CLUB_CREATE_TABLE_TIME_TITTLE">CHỌN THỜI GIAN BẮT ĐẦU TOUR</item>
+  <item key="CLUB_CREATE_TABLE_TIME_NOT_VALIDATE">Thời gian bắt đầu phải lớn hơn thời gian hiện tại.</item>
+  <item key="CLUB_CREATE_GAME_NO_START">Chưa bắt đầu.</item>
+
+  <item key="CLUB_CREATE_STRADDLE">Straddle:</item>
+
+  <item key="CLUB_CREATE_ANTE">Ante:</item>
+
+
+  <item key="CLUB_CREATE_TITTLE_AUTO_CREATABLE">TỰ ĐỘNG MỞ BÀN</item>
+  <item key="CLUB_CREATE_GUILDE_AUTO_CREATABLE">
+    1. Bật Tùy chọn này sẽ đảm bảo rằng khi 1 ván đấu bắt đầu, hệ thống sẽ tự động mở một bàn khác với các cài đặt giống hệt như vậy
+    2. Bạn có thể tắt chế độ này tại mục thông tin của bàn chơi SPIN
+  </item>
+
+
+  <item key="CLUB_CREATE_CONFIMR_ENABLE_AUTOCREATE">Bạn có chắc chắn muốn bật tự động tạo bàn?</item>
+  <item key="CLUB_CREATE_CONFIMR_DISABLE_AUTOCREATE">Bạn có chắc chắn muốn tắt tự động tạo bàn?</item>
+
+  <item key="CLUB_CREATE_TABLE_NO_INPUT_TOURNAME">Vui lòng nhập tên giải đấu.</item>
+  <item key="CLUB_CREATE_TABLE_NO_INPUT_COST">Vui lòng nhập phí tham gia.</item>
+  <item key="CLUB_CREATE_TABLE_NO_INPUT_REBUY">Vui lòng nhập phí Rebuy.</item>
+  <item key="CLUB_CREATE_TABLE_NO_INPUT_ADDON">Vui lòng nhập phí Add-on.</item>
+  
+  <item key="CLUB_CREATE_MAXCASHIN">Max Cashin:</item>
+
+  <item key="CLUB_EDIT_AVATAR">CHỌN ẢNH ĐẠI DIỆN CLB</item>
+  <item key="CLUB_DISBAND_CLUB">Giải tán CLB</item>
+  <item key="CLUB_LEAVE_CLUB">Rời khỏi CLB</item>
+
+  <item key="CLUB_TOTAL_PLAYER">Thành viên: {0}</item>
+  <item key="CLUB_EXPIRE_TIME">Thời gian hiển thị bàn</item>
+  <item key="CLUB_NO_INPUT_COST">Vui lòng nhập phí vào chơi.</item>
+
+
+  <item key="CLUB_SHOP_TITTLE">THỨ HẠNG CLB</item>
+  <item key="CLUB_SHOP_LEVEL_YOUR_CLUB">Cấp:</item>
+  <item key="CLUB_SHOP_STAR">CLB {0} Sao</item>
+  <item key="CLUB_SHOP_CONFIRM_BUY_STAR">Bạn chắc chắn muốn nâng cấp CLB của mình lên cấp {0} với giá {1} {2}?</item>
+  <item key="CLUB_SHOP_CONFIRM_LEAVE_CLUB">Bạn chắc chắn muốn rời khỏi CLB?</item>
+  <item key="CLUB_SHOP_ADMIN">Quản trị:</item>
+  <item key="CLUB_SHOP_MEMBER">Thành viên:</item>
+  <item key="CLUB_SHOP_BUY_LEVEL">Nâng cấp CLB</item>
+  <item key="CLUB_SHOP_DISBAN_TIME">CLB sẽ giải tán sau:</item>
+  <item key="CLUB_SHOP_DISBAN_TTITTLE">GIẢI TÁN CLUB</item>
+  <item key="CLUB_SHOP_DISBAN_CLUBID_INPUT">Nhập ID Câu lạc bộ</item>
+  <item key="CLUB_SHOP_DISBAN_ID_NOT_NULL">Vui lòng nhập đúng ID Câu lạc bộ.</item>
+  <item key="CLUB_SHOP_UP_ADMIN">Tăng quyền Admin</item>
+  <item key="CLUB_SHOP_DOWN_ADMIN">Hủy quyền Admin</item>
+  
+  <item key="EMAIL_SYSTEM">THƯ HỆ THỐNG</item>
+  <item key="EMAIL_PERSONAL">THƯ CÁ NHÂN</item>
+  <item key="LOBBY_PROFILE">CÁ NHÂN</item>
+
+  <item key="LOBBY_TOP_TITTLE">TOP NGƯỜI CHƠI</item>
+  <item key="LOBBY_TOP_TOP1_PRIVIOUS">Quán quân kỳ trước</item>
+  <item key="LOBBY_TOP_LOBBY">SẢNH CHÍNH</item>
+  <item key="LOBBY_TOP_MTT">MTT</item>
+  <item key="LOBBY_TOP_CLUB">CLB</item>
+  <item key="LOBBY_TOP_TOTAL_BET">QUỸ CƯỢC</item>
+
+
+  <item key="LOBBY_TOP_LOBBY_FAME">SẢNH DANH VỌNG</item>
+  <item key="LOBBY_TOP_TOP_RANKING_POKERMASTER">TOP BẢNG XẾP HẠNG POKER MASTER</item>
+  <item key="LOBBY_TOP_TOP_REMAINTIME">Còn{0} ngày {1} giờ</item>
+  
+
+  <item key="REVIEWHAND_TITTLE">ĐÁNH GIÁ VÁN BÀI</item>
+  <item key="REVIEWHAND_MY_HANDS">Ván bài của tôi</item>
+  <item key="REVIEWHAND_MY_COLLECTION">Bộ sưu tập</item>
+  
+  <item key="POKER_TOUR_DETAIL_MYRANK">Vị trí của tôi</item>
+  <item key="POKER_TOUR_DETAIL_CURRENT_LEVEL">Cấp độ</item>
+  <item key="POKER_TOUR_DETAIL_TOTALPLAYER">Lượt vào</item>
+  <item key="POKER_TOUR_DETAIL_CURRENT_BLIND">Cấp độ hiện tại</item>
+  <item key="POKER_TOUR_DETAIL_PRIZE_FUND">Quỹ giải thưởng</item>
+  <item key="POKER_TOUR_DETAIL_NEXT_BLIND">Cấp độ kế tiếp</item>
+  <item key="POKER_TOUR_DETAIL_PLAYER_PLAYING">Đang chơi</item>
+  <item key="POKER_TOUR_DETAIL_STACK_TRUNGBINH">Stack trung bình</item>
+  <item key="POKER_TOUR_DETAIL_STACK_LONNHAT">Stack lớn nhất</item>
+  <item key="POKER_TOUR_DETAIL_STACK_LON">Stack nhỏ nhất</item>
+  <item key="POKER_TOUR_DETAIL_TOTAL_COST">Tổng phí vào chơi</item>
+  <item key="POKER_TOUR_DETAIL_COUNT_REBUY">Rebuy</item>
+  <item key="POKER_TOUR_DETAIL_COUNT_ADDON">Add-on</item>
+  <item key="POKER_TOUR_DETAIL_VIEWERS">Khán giả</item>
+  <item key="POKER_TOUR_DETAIL_PLAYERS">Người chơi</item>
+  <item key="POKER_TOUR_DETAIL_COST_JOINGAME">Phí vào chơi</item>
+
+
+  <item key="POKER_TITTLE_HISTORY">LỊCH SỬ GAME</item>
+  
+  
+  <item key="POKER_TOUR_DETAIL_NICKNAME">Biệt danh</item>
+  <item key="POKER_TOUR_YOU_NOT_JOIN_TOUR">Bạn chưa tham gia</item>
+  
+
+  <item key="POKER_STAND_UP">Đứng lên</item>
+  <item key="POKER_RANKING">Hướng dẫn</item>
+  <item key="POKER_LEAVE_TABLE">Rời bàn</item>
+  <item key="POKER_SITTINGOUT_TABLE">Take Away</item>
+  <item key="POKER_CHANGE_TABLE">Đổi bàn</item>
+
+
+  <item key="POKER_CHANGE_TABLE_ERROR">Bạn đang ở trong giải đấu, không thể thực hiện chức năng này.</item>
+  <item key="POKER_CHANGE_TABLE_ERROR_2">Bạn đang ở trong bàn chơi.</item>
+
+
+  <item key="POKER_SITTINGOUT">Ngồi Ngoài</item>
+  <item key="POKER_COMEBACK_GAME">Tôi đã trở lại</item>
+
+  
+  <item key="POKER_AUTO_CALL">Auto Theo</item>
+  <item key="POKER_AUTO_CHECK">Auto Xem</item>
+  <item key="POKER_AUTO_FOLD">Auto Úp</item>
+  
+  <item key="POKER_ALL_IN">Xả Láng</item>
+  <item key="POKER_CHECK">Xem</item>
+  <item key="POKER_CALL">Theo</item>
+  <item key="POKER_BET">Cược</item>
+  <item key="POKER_RAISE">Tăng Cược</item>
+  <item key="POKER_FOLD">Úp Bài</item>
+  <item key="POKER_OPEN_CARD">Mở Bài</item>
+  <item key="POKER_CONFIMR">Xác Nhận</item>
+  <item key="POKER_WIN">THẮNG</item>
+  <item key="POKER_STRADDLE">Straddle(x2 BB)</item>
+  <item key="POKER_CANCEL_STRADDLE">Hủy Straddle</item>
+  <item key="POKER_WAITTING">Ván chơi mới sẽ bắt đầu sau {0}s</item>
+  <item key="POKER_AUTO_CASHIN">Tự động nạp tiền khi không đủ điều kiện tham gia trò chơi.</item>
+  <item key="POKER_TEXT_COUNTDOWNTIME_START_GAME">VÁN MỠI SẼ BĂT ĐẦU SAU</item>
+
+
+  <item key="POKER_INPUT_BET_MINBET">Số tiền cược thấp nhất:</item>
+  <item key="POKER_INPUT_BET_MAXBET">Số tiền cược tối đa:</item>
+  <item key="POKER_INPUT_BET_TITTLE">NHẬP SỐ TIỀN CƯỢC</item>
+  <item key="POKER_INPUT_BET">Nhập số tiền cược</item>
+  
+  <item key="POKER_MESSAGE_REBUY">Bạn có muốn Rebuy để tiếp tục chơi?</item>
+
+
+  <item key="POKER_FEE_JOINGAME">Phí vào Game:</item>
+
+
+  <item key="POKER_HANDCARD">Bộ 5 lá bài</item>
+  <item key="POKER_HANDCARD_NAME">Tên Bộ bài</item>
+  <item key="POKER_HANDCARD_ROYERFLUSH">Thùng Phá Sảnh Thượng</item>
+  <item key="POKER_HANDCARD_STRAIDFLUSH">Thùng Phá Sảnh</item>
+  <item key="POKER_HANDCARD_FOUROFAKIND">Tứ Quý</item>
+  <item key="POKER_HANDCARD_FULLHOUSE">Cù Lũ</item>
+  <item key="POKER_HANDCARD_FLUSH">Thùng</item>
+  <item key="POKER_HANDCARD_STRAID">Sảnh</item>
+  <item key="POKER_HANDCARD_THREEOFKIND">Sám Cô</item>
+  <item key="POKER_HANDCARD_TWOPAIR">Hai Đôi</item>
+  <item key="POKER_HANDCARD_PAIR">Đôi</item>
+  <item key="POKER_HANDCARD_HIGHCARD">Bài Cao</item>
+  <item key="POKER_HANDCARD_FOLD">Úp bài</item>
+  <item key="POKER_HANDCARD_WIN_FOLD">Thắng Úp bài</item>
+  
+  
+  <item key="POKER_TEXT_BLIND">Mức cược: {0}/{1}</item>
+  <item key="POKER_TEXT_BLIND_UP">Mức cược tăng: {0}/{1}</item>
+  <item key="POKER_TEXT_RETRY_GAME">Chơi lại</item>
+  <item key="POKER_TEXT_STAY_GAME">Ở lại</item>
+  <item key="POKER_TEXT_CONFIRM_GAME">Xác nhận</item>
+  <item key="POKER_TEXT_TOUR_GLOBAL">Giải đấu toàn cầu</item>
+  <item key="POKER_TEXT_RESULT_TOUR_YOUR_RANK">Xếp hạng {0}/{1}</item>
+  
+  
+  <item key="POKER_HISTORY_TOMTATVANCHOI">Tóm tắt ván bài</item>
+  <item key="POKER_HISTORY_GAME_DETAIL">Chi tiết ván bài</item>
+  
+  
+  <item key="POKER_INSURANCE_TITTLE">Bảo hiểm tất tay</item>
+  <item key="POKER_INSURANCE_HELP">Qui định Bảo hiểm tất tay</item>
+  <item key="POKER_INSURANCE_POT">Tổng Pot</item>
+  <item key="POKER_INSURANCE_INVESTMENT">Tổng Cược của bạn</item>
+  <item key="POKER_INSURANCE_YOURHAND">Bài của bạn</item>
+  <item key="POKER_INSURANCE_CENTERCARD">Bài trên bàn</item>
+  <item key="POKER_INSURANCE_HIMHAND">Bài đối thủ</item>
+  <item key="POKER_INSURANCE_OUTS">Outs</item>
+  <item key="POKER_INSURANCE_ODDS">Odds</item>
+  <item key="POKER_INSURANCE_COST">Phí bảo hiểm</item>
+  <item key="POKER_INSURANCE_RECEIVED">Tiền bồi thường</item>
+  <item key="POKER_INSURANCE_MIN">Tối thiểu</item>
+  <item key="POKER_INSURANCE_BREAK">Hòa vốn</item>
+  <item key="POKER_INSURANCE_RETAINPFOFIT">Tạo lợi nhuận</item>
+  <item key="POKER_INSURANCE_NO_NEED">Không cần</item>
+  <item key="POKER_INSURANCE_PURCHASE">Mua</item>
+  <item key="POKER_MESSAGE_REFUND_INSURANCE">Người chơi {0} nhận được {1} từ Bảo hiêm tất tay.</item>
+  
+  <item key="POKER_MESSAGE_WAIT_PLAYER_STRADDLE">Vòng Straddle cho người chơi &#60;color=yellow&#62;{0}&#60;/color&#62;.</item>
+  <item key="POKER_MESSAGE_PLAYER_STRADDLE">Người chơi &#60;color=yellow&#62;{0}&#60;/color&#62; đã chọn Straddle với số tiền {1}.</item>
+  
+  <item key="POKER_BUY_CASHIN">NẠP TIỀN</item>
+  <item key="POKER_BUY_CASHIN_2">Nạp Tiền</item>
+  <item key="POKER_CASHIN_NOTE">Ván bài tiếp theo Chip của bạn sẽ được bổ sung</item>
+  <item key="POKER_AUTO_CASHIN">Tự động mua Chip khi hết tiền trong bàn.</item>
+
+  <item key="POKER_CASHIN_NOT_MAX">Bạn không thể CashIn do đã đạt Max CashIn trong Game.</item>
+  <item key="POKER_CASHIN_NOT_ENOUNGD">Số dư không đủ để thực hiện, vui lòng nạp thêm tiền để CashIn.</item>
+  
+  
+  <item key="POKER_INSURANCE_HELP_TITTLE">HƯỚNG DẪN BẢO HIỂM TẤT TAY</item>
+    
+  <item key="POKER_INSURANCE_GUIDE">
+    Bảo hiểm Tất tay cho bạn lựa chọn để mua bảo hiểm khi bạn tất tay. Nhận được tiền, kể cả khi bạn thua!
+    
+    &#60;color=red&#62;Bảo hiểm Tất tay Hoạt Động Như Thế Nào?&#60;/color&#62;
+
+    Bảo hiểm Tất tay bảo vệ số chip bạn đã đặt vào giải thưởng, khi bạn tất tay ở lợi thế với những người chơi khác.
+    Bạn sẽ được cung cấp tùy chọn mua Bảo hiểm tất tay với quân bài tiếp theo chia. Ví dụ: ban đầu, bảo hiểm dành cho vòng Turn nếu như bạn tất tay ở vòng Flop, và sẽ được cung cấp cho vòng River nếu bạn tất tay ở vòng Turn.
+
+    &#60;color=red&#62;Làm thế nào để tôi nhận được tiền?&#60;/color&#62;
+    Nếu bạn THUA (và một trong những quân bài bảo hiểm của bạn xuất hiện ở vòng tiếp theo), bạn sẽ có thể nhận được tiền bảo hiểm của mình ngay lập tức.
+    Nếu bạn THẮNG ván bài, bạn sẽ thắng giải thưởng như bình thường và phí Bảo hiểm Tất tay (phí) sẽ được trừ từ tổng giải thưởng khi ván bài kết thúc.
+
+    &#60;color=red&#62;Điều kiện và điều khoản:&#60;/color&#62;
+    Bảo hiểm Tất tay có ở các trò chơi tiền thật Hold'em (không áp dụng tại spin và tour)
+    Trong trường hợp người chơi chấp nhận Bảo hiểm Tất tay nhưng thắng ván bài, phí Bảo hiểm Tất tay sẽ được trừ vào giải thưởng cuối cùng khi kết thúc ván bài.
+    Người chơi Poker master chấp nhận rủi ro bị ngắt kết nối internet, do sự cố kết nối giữa (các) thiết bị của họ và máy chủ, lag hoặc đóng băng hoặc một số vấn đề khác trong (các) thiết bị của người chơi hoặc cách thiết bị đó truy cập mạng internet
+    Poker master có quyền hủy / sửa đổi ưu đãi này bất cứ lúc nào mà không cần thông báo trước, theo quyết định duy nhất và tuyệt đối của mình.
+    Poker master có quyền điều tra bất kỳ người chơi nào bị nghi ngờ có hành vi gian lận và thực hiện bất kỳ hành động cần thiết nào. Trong trường hợp chơi nhiều tài khoản, săn tiền thưởng hoặc chơi xấu, Poker master có quyền tước bất kỳ số tiền thưởng nào đã được thanh toán cùng với bất kỳ số dư tiền mặt còn lại nào mà không cần thông báo trước.
+  </item>
+  
+  
+  <item key="POKER_TEXT_ADD_ON">Add-on</item>
+
+  <item key="CHAT_INPUT">Nhập nội dung...</item>
+  <item key="CHAT_SEND">Gửi</item>
+  <item key="CHAT_QUICKCHAT_POKER_0">Nhanh lên ông ey!!</item>
+  <item key="CHAT_QUICKCHAT_POKER_1">Tất tay ngay!!!</item>
+  <item key="CHAT_QUICKCHAT_POKER_2">Tố đi !! Ngại gì vết bẩn</item>
+  <item key="CHAT_QUICKCHAT_POKER_3">Thùng!!!!!!!!</item>
+  <item key="CHAT_QUICKCHAT_POKER_4">Mua Thùng!!</item>
+  <item key="CHAT_QUICKCHAT_POKER_5">Úp nhanh còn kịp!!</item>
+  <item key="CHAT_QUICKCHAT_POKER_6">Bao nhiêu cũng chơi</item>
+  <item key="CHAT_QUICKCHAT_POKER_7">Quất thôi, sao phải xoắn</item>
+  <item key="CHAT_QUICKCHAT_POKER_8">Hên Vãi :))</item>
+  <item key="CHAT_QUICKCHAT_POKER_9">Hên vãi</item>
+  <item key="CHAT_QUICKCHAT_POKER_10">Quá nhọ</item>
+  <item key="CHAT_QUICKCHAT_POKER_11">Thêm tiền đi</item>
+  <item key="CHAT_QUICKCHAT_POKER_12">hihi!</item>
+  <item key="CHAT_QUICKCHAT_POKER_13">Hazzz!</item>
+
+  <item key="HELP_GAMEID_POKER">POKER</item>
+
+  <item key="HELP_POKER">
+    Luật chơi poker khá đơn giản, bắt đầu ván đấu mỗi người được chia 2 lá bài và không nhìn thấy bài của nhau. Sau đó 5 lá bài chung sẽ được lật ra theo 3 vòng theo thứ tự 3-1-1, vòng đầu lật đồng thời 3 lá, hai vòng sau mỗi vòng lật 1 lá cho mọi người nhìn thấy để quyết định đặt cược, theo hay rút lui ở từng vòng. Người chiến thắng là người còn lại không rút lui ở các vòng tố và có bộ bài 5 lá mạnh nhất được chọn ra từ 2 lá bài trên tay và 5 lá bài chung là lớn nhất.
+
+    Lựa chọn tại mỗi vòng cược:
+    - Úp bỏ: Khi bạn có những lá bài không tốt, hay đơn giản là không muốn tiếp tục chơi ván bài đó nữa, bạn bỏ theo ván bài, và chờ 1 cơ hội khác.
+    - Theo: Tiếp tục chơi, nếu có người tố trước trong cùng vòng, bạn sẽ phải bỏ thêm tiền bằng với số tiền đó.
+    - Tố: Bạn “theo” đồng thời cược thêm một số tiền nào đó. Những ai muốn được tiếp tục ván bài, thì phải trả 1 số tiền bằng số tiền bạn đã cược mới có thể chơi tiếp. Nếu họ cảm thấy số tiền khá lớn và không muốn theo thì họ sẽ úp bỏ.
+    - Tố tất: Khi bạn cược hết tổng số tiền bạn đang có tại bàn thì như thế sẽ được gọi là tố tất. Khi bạn đã tố tất mà vẫn có người theo, thì lúc này nhiệm vụ của bạn chỉ là ngồi xem tiếp các vòng cược và bài ra như thế nào, vì hiện tại bạn không còn tiền để làm gì thêm nữa. Khi vòng cuối cùng kết thúc, bạn sẽ được so bài với những người chơi khác để phân định thắng thua.
+
+    Các vòng cược và các là bài được chia ra:
+
+    - Vòng 1 ( Preflop): chia mỗi người 2 lá bài.
+    - Vòng 2 (The flop): Chia 3 lá bài chung.
+    - Vòng 3 (The turn): Chia lá bài chung thứ 4.
+    - Vòng 4 (River): Lá bài chung cuối cùng.
+
+    Danh sách các Poker hand sắp xếp từ lớn đến bé
+    - Straight Flush (Thùng phá sảnh): 5 lá bài cùng chất liền nhau ( ví dụ: 8♥9♥10♥J♥Q♥ ). Nếu hai người cùng có Straight Flush thì ai có lá lớn hơn sẽ thắng, không phân biệt chất gì.
+    - Four of a kind (Tứ quý): Nếu bài bạn kết hợp với bài trên bàn và có 1 bộ 4 lá giống nhau thì được gọi là Four of a kind. Trong trường hợp 2 người đều có Four of a kind thì người nào có tứ quý lớn hơn sẽ thắng.
+    - Full House (Cù lũ): Nếu poker hands của bạn gồm 1 bộ ba lá, 1 bộ đôi thì bài đó được gọi là Full House. Trong trường hợp 2 người đều được Full House thì ai có bộ ba lá lớn hơn sẽ thắng. Ngoài ra còn có trường hợp bài trên bàn có sẵn 3 lá giống nhau và có 2 người cùng được Full House thì ai có đôi lớn hơn sẽ thắng.
+    - Flush (Thùng): Nếu bài của bạn kết hợp với bài trên bàn và có 5 cây cùng đồng 1 chất với nhau thì được gọi là Flush. Trường hợp 2 người cùng có flush thì ai có lá lớn hơn sẽ thắng.
+    - Straight (Sảnh): Nếu bài của bạn kết hợp với bài trên bàn và có 1 bộ 5 cây liên tiếp nhau, ví dụ như 2.3.4.5.6 thì được gọi là Straight, không phân biệt chất gì cả. Nếu 2 người cùng có Straight thì ai có cây lớn hơn sẽ thắng.
+    - Three of a kind (Sám cô): Nếu bài của bạn kết hợp với bài trên bàn và có 3 lá giống nhau thì được gọi là Three of a kind. Nếu hai người đều cùng có Three of a kind thì sau đó những lá bài khác lớn hơn hoặc cả 2 lá sẽ xác định chiến thằng, vì 1 ván poker luôn có 5 lá bài.
+    - Two pairs (Thú):: Nếu bài của bạn kết hợp với bài trên bàn và có 2 đôi thì được gọi là Two pairs. Nếu hai người đều cùng có 2 đôi không giống nhau, thì ai có đôi lớn hơn sẽ thắng, tuy nhiên nếu có cùng hai đôi cao giống nhau thì 2 đôi thấp sẽ được xét, nếu 2 đôi đều bằng nhau thì bạn nhìn những quân lẻ còn lại cả bài trên bàn lẫn bài trên tay mình, để xem đâu là lá lớn nhất. Ai có lá lớn nhất người đó sẽ thắng.
+    - Pair (Đôi): Nếu bài của bạn kết hợp với bài trên bàn và có 2 lá cùng loại thì được gọi là pair. Một ván bài poker luôn có 5 lá, 3 lá còn lại được gọi là kickers. Trong trường hợp người chơi có cùng đôi giống nhau thì người nào có kickers cao nhất sẽ thắng.
+    - High card (Mậu thầu): Nếu mà bạn không có đến 1 đôi, thì bạn nhìn cả bài trên bàn lẫn bài trên tay mình để xem đâu là lá lớn nhất mà mình có được khi kết hợp cả bài trên tay lẫn dưới bàn. Nếu 2 người đều không có đôi, hoặc tốt hơn, thì ai có lá lớn nhất người đó sẽ thắng.
+  </item>
+ 
+  <!--Profile-->
+
+  <item key="HOME_CONFIRMCHANGEAVATAR">Bạn có chắc chắn muốn đổi Avatar này?</item>
+
+ 
+  <item key="DAYLY_TTITLE">ĐẠI LÝ</item>
+  <item key="DAYLY_LUUY">Lưu ý:</item>
+  <item key="DAYLY_LUUYDES">
+  1. Hạn mức tối thiểu chuyển là 100.000 Gold, số dư tối thiểu sau khi chuyển là 10.000 Gold.
+  2. Vui lòng đăng nhập vào ứng dụng Bụi 99 OTP để lấy mã token
+  <!-- Phí giao dịch khi sử dụng tính năng Chuyển Vui Coin là 2% và người chơi chịu phí chuyển.-->
+  </item>
+  <item key="DAYLY_COUNTCHIP">Số Gold(*)</item>
+  <item key="DAYLY_RECOUNTCHIP">Nhập lại số Gold cần chuyển(*)</item>
+  <item key="DAYLY_RECOUNTCHIPDES">
+    Số tiền bị trừ: {0} Gold
+  </item>
+  <item key="DAYLY_RESSONTRANFER">Lý do chuyển(*)</item>
+  <item key="DAYLY_TITTLETRANFER">Chuyển chip cho đại lý {0}</item>
+  <item key="DAYLY_BTNTRANFER">Giao dịch</item>
+  <item key="DAYLY_ADDRESS">Địa chỉ</item>
+  <item key="DAYLY_PHONE">Số điện thoại</item>
+  <item key="DAYLY_NAME">Tên đại lý</item>
+
+  <item key="DAYLY_INPUTMONEY">Chưa nhập số tiền</item>
+  <item key="DAYLY_INPUTREMONEY">Chưa nhập lại số tiền</item>
+  <item key="DAYLY_INPUTDESCRIPTION">Chưa nhập mô tả</item>
+  <item key="DAYLY_MONEYOTHER">Số tiền không khớp</item>
+  <item key="REGISTER_LEAVETABLE">Đăng ký rời bàn thành công</item>
+  <item key="CONFIRM_LEAVETABLE">Bạn muốn thoát khỏi bàn chơi?</item>
+  <item key="UPDATEINFO_INPUTPHONE">Chưa nhập số điện thoại</item>
+  <item key="UPDATEINFO_INPUTOTP">Chưa nhập mã OTP</item>
+  <item key="UPDATEINFO_GETOTP">Lấy OTP</item>
+  <item key="PROFILE_SDT">SĐT</item>
+  <item key="HOME_DIALOG_TYPE_OTP">Vui lòng nhập OTP...</item>
+  <item key="HOME_DIALOG_TYPE_TOKEN">Nhập mã token...</item>
+  <item key="HOME_DIALOG_OTP_FEE">Phí nhận mã OTP: 1.000 Gold</item>
+</Language>

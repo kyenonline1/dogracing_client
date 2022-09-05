@@ -1,0 +1,27 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:ff548fc85d79fb0c9cc27a80b9d24c98:ea624261b0acfb599807957b0e63d28a:131a8d1c6c97242148669060aee4e200$
+#
+:format=40300
+:texture=HomeAtlas.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+
+background;0;664;640;360; 0.5;0.5; 0;0;0;0
+bgHome;0;303;640;360; 0.5;0.5; 0;0;0;0
+btnFB;641;971;53;53; 0.5;0.5; 0;0;0;0
+icon_eye_off;34;20;32;21; 0.5;0.5; 0;0;0;0
+icon_eye_on;729;1003;32;21; 0.5;0.5; 0;0;0;0
+icon_uk;0;8;33;33; 0.5;0.5; 0;0;0;0
+icon_vn;695;991;33;33; 0.5;0.5; 0;0;0;0
+lg_line;0;42;959;1; 0.5;0.5; 0;0;0;0
+login_btn_blue;641;899;28;71; 0.5;0.5; 0;0;0;0
+login_btn_green;641;827;26;71; 0.5;0.5; 0;0;0;0
+logo_pm;0;44;675;258; 0.5;0.5; 0;0;0;0
+reg_btn_back;670;947;21;23; 0.5;0.5; 0;0;0;0
+reg_field;641;767;31;59; 0.5;0.5; 0;0;0;0

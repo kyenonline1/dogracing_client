@@ -1,0 +1,40 @@
+﻿
+namespace GameProtocol.ATH
+{
+    public enum ATH_ParameterCode : byte
+    {
+        Session = 10,
+        Username,
+        Password,
+        UserId,
+        Nickname,
+        Silver,
+        Gold,
+        TableId,
+        GameId,
+        CurrentVip,
+        MaxVip,
+        Avatar,
+        VipType,
+        VipName,
+        Message,
+        Captcha,
+        FacebookId,
+        Fullname,
+        Firstname,
+        Lastname,
+        Url,
+        GiftCode,
+        Blind,
+        CashType,
+        Games,
+        GoldSafe,
+        PhoneNumber,
+        TotalCharging,
+        TotalMomo,
+        TotalSpin,
+        BlindsInfo,
+        ClubId,
+        ClubMemberType,
+    }
+}

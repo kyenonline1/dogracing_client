@@ -1,0 +1,2021 @@
+fileFormatVersion: 2
+guid: 15fddeca03b74e04fb37c092536d0698
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: LobbyAtlas
+  - first:
+      213: 21300002
+    second: active_event_jackpot
+  - first:
+      213: 21300004
+    second: background
+  - first:
+      213: 21300006
+    second: bgAvatar
+  - first:
+      213: 21300008
+    second: bgMoney
+  - first:
+      213: 21300010
+    second: bottom
+  - first:
+      213: 21300012
+    second: BtnDaiLy-bgDLCoin
+  - first:
+      213: 21300014
+    second: BtnDaiLy-chipEffect
+  - first:
+      213: 21300016
+    second: BtnDaiLy-dl_may
+  - first:
+      213: 21300018
+    second: BtnDaiLy-star_effect
+  - first:
+      213: 21300020
+    second: BtnDaiLy-txtDaiLy
+  - first:
+      213: 21300022
+    second: btnEvent
+  - first:
+      213: 21300024
+    second: btnFanpage
+  - first:
+      213: 21300026
+    second: btnHomThu
+  - first:
+      213: 21300028
+    second: btnIap
+  - first:
+      213: 21300030
+    second: btnSafe
+  - first:
+      213: 21300032
+    second: btnSetting
+  - first:
+      213: 21300034
+    second: btnSupport
+  - first:
+      213: 21300036
+    second: btnTelegram
+  - first:
+      213: 21300038
+    second: btnTopJackpot
+  - first:
+      213: 21300040
+    second: btnTranffer
+  - first:
+      213: 21300042
+    second: BtnVip
+  - first:
+      213: 21300044
+    second: dot_event_active
+  - first:
+      213: 21300046
+    second: dot_event_deactive
+  - first:
+      213: 21300048
+    second: HeaderInfo
+  - first:
+      213: 21300050
+    second: homthu_new
+  - first:
+      213: 21300052
+    second: IconGame-Lieng-bgLieng
+  - first:
+      213: 21300054
+    second: IconGame-Lieng-lieng_chip
+  - first:
+      213: 21300056
+    second: IconGame-Lieng-txtLieng
+  - first:
+      213: 21300058
+    second: IconGame-MauBinh-bgMauBinh
+  - first:
+      213: 21300060
+    second: IconGame-MauBinh-iconMB
+  - first:
+      213: 21300062
+    second: IconGame-MauBinh-txtMauBinh
+  - first:
+      213: 21300064
+    second: IconGame-MiniPoker-bgMNPK
+  - first:
+      213: 21300066
+    second: IconGame-MiniPoker-bgMNPK2
+  - first:
+      213: 21300068
+    second: IconGame-MiniPoker-chipMnpk
+  - first:
+      213: 21300070
+    second: IconGame-MiniPoker-GirlMiniPoker
+  - first:
+      213: 21300072
+    second: IconGame-MiniPoker-labai1
+  - first:
+      213: 21300074
+    second: IconGame-MiniPoker-labai2
+  - first:
+      213: 21300076
+    second: IconGame-MiniPoker-minipokerMay
+  - first:
+      213: 21300078
+    second: IconGame-MiniPoker-txtPoker
+  - first:
+      213: 21300080
+    second: IconGame-Phom-bgPhom
+  - first:
+      213: 21300082
+    second: IconGame-Phom-phom_chip
+  - first:
+      213: 21300084
+    second: IconGame-Phom-phomLabai
+  - first:
+      213: 21300086
+    second: IconGame-Phom-txtPhom
+  - first:
+      213: 21300088
+    second: IconGame-Poker-bgPoker
+  - first:
+      213: 21300090
+    second: IconGame-Poker-pkCards
+  - first:
+      213: 21300092
+    second: IconGame-Poker-pkChip
+  - first:
+      213: 21300094
+    second: IconGame-Poker-txtPoker
+  - first:
+      213: 21300096
+    second: IconGame-SlotCuongMa-iconSlotCuongMa
+  - first:
+      213: 21300098
+    second: IconGame-SlotPrirates-slotPrirates
+  - first:
+      213: 21300100
+    second: IconGame-SlotVuaTamQuoc-SlotVuaTamQuoc
+  - first:
+      213: 21300102
+    second: IconGame-TaiXiu-bgTaiXiu
+  - first:
+      213: 21300104
+    second: IconGame-TaiXiu-bgTaiXiu1
+  - first:
+      213: 21300106
+    second: IconGame-TaiXiu-iconChipTx
+  - first:
+      213: 21300108
+    second: IconGame-TaiXiu-txtTaiXiu
+  - first:
+      213: 21300110
+    second: IconGame-TaiXiu-xucxacBig
+  - first:
+      213: 21300112
+    second: IconGame-TaiXiu-xucxacsmall
+  - first:
+      213: 21300114
+    second: IconGame-TLMN-bgTLMN
+  - first:
+      213: 21300116
+    second: IconGame-TLMN-tlmnCards
+  - first:
+      213: 21300118
+    second: IconGame-TLMN-tlmnCup
+  - first:
+      213: 21300120
+    second: IconGame-TLMN-txtTLMN
+  - first:
+      213: 21300122
+    second: IconGame-XiTo-bgXiTo
+  - first:
+      213: 21300124
+    second: IconGame-XiTo-txtXiTo
+  - first:
+      213: 21300126
+    second: IconGame-XiTo-XitoIC
+  - first:
+      213: 21300128
+    second: iconGold
+  - first:
+      213: 21300130
+    second: iconLoaTB
+  - first:
+      213: 21300132
+    second: iconMiniGame
+  - first:
+      213: 21300134
+    second: bgHide
+  - first:
+      213: 21300136
+    second: maskAvatar
+  - first:
+      213: 21300138
+    second: BoderAvatar
+  - first:
+      213: 21300140
+    second: bgNotiLobby
+  - first:
+      213: 7751664105833445044
+    second: btnDoiThuong
+  - first:
+      213: -3470941841863712338
+    second: btnGiftCode
+  - first:
+      213: -1093828036803322000
+    second: btnGiftCodeSmall
+  - first:
+      213: 5205382552064212803
+    second: btnNapThe
+  - first:
+      213: -5749770031194760651
+    second: btnVQMM
+  - first:
+      213: 3602683740670788309
+    second: supportFacebook
+  - first:
+      213: 4337732119508422563
+    second: supportTelegram
+  - first:
+      213: 2090110470289134330
+    second: btnNhiemVu
+  - first:
+      213: -81717976475487150
+    second: table_poker
+  - first:
+      213: -4718106704384222764
+    second: TopHu-tophu_background
+  - first:
+      213: -8133448188194963480
+    second: TopHu-tophu_btnActive
+  - first:
+      213: -9150084854508391230
+    second: TopHu-tophu_btnCuongMa
+  - first:
+      213: 5196460553925363955
+    second: TopHu-tophu_btnnormal
+  - first:
+      213: 333889686987252662
+    second: TopHu-tophu_iconHaiTac
+  - first:
+      213: -8395975486175866498
+    second: TopHu-tophu_iconHoaPhung
+  - first:
+      213: 7460856675773369662
+    second: TopHu-tophu_iconMiniPoker
+  - first:
+      213: -2501062070871133915
+    second: TopHu-tophu_iconTamQuoc
+  - first:
+      213: -4731548227370458455
+    second: IconGame-SlotCuongMa-SlotCuongMa
+  - first:
+      213: 3453497110687312483
+    second: IconGame-SlotPrirates-bgPrirates
+  - first:
+      213: -3625861592741419190
+    second: IconGame-SlotVuaTamQuoc-VuaTamQuoc
+  - first:
+      213: -5700021457952576256
+    second: TopHu-icon_sk
+  - first:
+      213: -2556590696300854105
+    second: TopHu-x2
+  - first:
+      213: -5733152282319065043
+    second: TopHu-x3
+  - first:
+      213: 7910357870336044817
+    second: TopHu-x4
+  - first:
+      213: -8387736838094051708
+    second: TopHu-x5
+  - first:
+      213: 2105187789541520343
+    second: TopHu-x6
+  - first:
+      213: 888233496830770277
+    second: band_event
+  - first:
+      213: 3825681557669075959
+    second: ic_pk52_soon
+  - first:
+      213: -8918714306578839156
+    second: LogoGame-bgLogo
+  - first:
+      213: 7195415317516144919
+    second: LogoGame-logo_light
+  - first:
+      213: -2482914899884692399
+    second: LogoGame-logoCards
+  - first:
+      213: 2782860038166769986
+    second: LogoGame-maskLogo
+  - first:
+      213: 77223248742735976
+    second: IconGame-Lieng-li_card_0
+  - first:
+      213: -7320046651929399292
+    second: IconGame-Lieng-li_card_1
+  - first:
+      213: 6121536673175650620
+    second: IconGame-Lieng-li_card_2
+  - first:
+      213: -6569007605600023944
+    second: IconGame-MauBinh-mb_card_0
+  - first:
+      213: -6433713948750937947
+    second: IconGame-MauBinh-mb_card_1
+  - first:
+      213: -3625412439518312324
+    second: IconGame-Phom-phom_card_0
+  - first:
+      213: 4651993166146698329
+    second: IconGame-Phom-phom_card_1
+  - first:
+      213: -6590528368853541162
+    second: IconGame-Phom-phom_card_2
+  - first:
+      213: -4520156792576327298
+    second: IconGame-Phom-phom_card_3
+  - first:
+      213: 4919014066247601971
+    second: IconGame-TLMN-tlmn_card_0
+  - first:
+      213: 8468514288333318808
+    second: IconGame-TLMN-tlmn_card_1
+  - first:
+      213: 4695388075554011608
+    second: IconGame-TLMN-tlmn_card_2
+  - first:
+      213: -2605565662958559804
+    second: IconGame-TLMN-tlmn_card_3
+  - first:
+      213: -924551693981390985
+    second: IconGame-TLMN-tlmn_card_4
+  - first:
+      213: -2886664086316256997
+    second: IconGame-XiTo-xt_card_0
+  - first:
+      213: -3011565122589232126
+    second: IconGame-XiTo-xt_card_1
+  - first:
+      213: 7251051852465665465
+    second: IconGame-XiTo-xt_card_2
+  - first:
+      213: -7847216195860469998
+    second: IconGame-XiTo-xt_card_3
+  - first:
+      213: -5597687911417056462
+    second: IconGame-XiTo-xt_card_4
+  - first:
+      213: -5088703718738300993
+    second: IconGame-Poker-poker_card_0
+  - first:
+      213: 1670113714199950518
+    second: IconGame-Poker-poker_card_1
+  - first:
+      213: 2315467610902029485
+    second: IconGame-Poker-poker_card_2
+  - first:
+      213: 4846561224903501759
+    second: IconGame-Poker-poker_card_3
+  - first:
+      213: 24276760939038678
+    second: IconGame-Layer 1074 copy 2
+  - first:
+      213: -9100491585576133378
+    second: IconGame-Layer 1074 copy 3
+  - first:
+      213: -2299946887103577965
+    second: IconGame-Layer 1074 copy 4
+  - first:
+      213: 1036802650183670789
+    second: IconGame-Layer 1074 copy
+  - first:
+      213: 8065310263192096486
+    second: IconGame-Layer 1074
+  - first:
+      213: 2252629663381193320
+    second: IconGame-Layer 1075
+  - first:
+      213: -6839040593436064376
+    second: IconGame-Slot33-slot3_bgHoaPhung
+  - first:
+      213: 7300331568449406112
+    second: IconGame-Slot33-slot3_hoaphung
+  - first:
+      213: 2748097236359933276
+    second: IconGame-Slot33-slot3_txtHoa
+  - first:
+      213: 4776511419486642544
+    second: IconGame-Slot33-slot3_txtPhung
+  - first:
+      213: 781972951049998496
+    second: IconGame-SlotCuongMa-txtCuongMa
+  - first:
+      213: 8098267971850967656
+    second: IconGame-SlotPrirates-txtPrirates
+  - first:
+      213: -7873937962756190873
+    second: IconGame-SlotVuaTamQuoc-txtVuaTamQuoc
+  - first:
+      213: 6958546142426971349
+    second: btnX2NapLanDau
+  - first:
+      213: -3040910894629408274
+    second: ava_border
+  - first:
+      213: 7866683981943543724
+    second: bar_btm_select
+  - first:
+      213: -297964542509720749
+    second: bar_top_line
+  - first:
+      213: -2736668688779582082
+    second: btn_fav
+  - first:
+      213: 7537444796233740087
+    second: btn_friend
+  - first:
+      213: 3857172730076714318
+    second: btn_mail
+  - first:
+      213: -3408685464769264808
+    second: btn_mail_noti
+  - first:
+      213: 5320138727296279111
+    second: btn_note
+  - first:
+      213: -7626398404764110458
+    second: btn_rank
+  - first:
+      213: -12999463590976634
+    second: btn_setting
+  - first:
+      213: 5275773215154744104
+    second: chip
+  - first:
+      213: 2169149214432043681
+    second: field_flash_bg
+  - first:
+      213: 8261506567799264155
+    second: flash
+  - first:
+      213: 3316439143046524440
+    second: icon_career
+  - first:
+      213: -2109604083387256701
+    second: icon_forum
+  - first:
+      213: -2553417535415083521
+    second: icon_game_bg
+  - first:
+      213: 770815250724343104
+    second: icon_game_bg_player
+  - first:
+      213: 1638893866810382039
+    second: icon_game_dubai
+  - first:
+      213: 1051869328830297777
+    second: icon_game_las_vegas
+  - first:
+      213: 4572064332329220391
+    second: icon_game_line_blue
+  - first:
+      213: 3413277621655315070
+    second: icon_game_line_green
+  - first:
+      213: -795858760015873638
+    second: icon_game_los_angeles
+  - first:
+      213: 7729871037711370944
+    second: icon_game_manila
+  - first:
+      213: -4530948759298232277
+    second: icon_game_rio
+  - first:
+      213: -4927667127532548112
+    second: icon_lobby
+  - first:
+      213: 5352688606708250072
+    second: icon_profile
+  - first:
+      213: -2459231281210174493
+    second: icon_shop
+  - first:
+      213: -6995599911689724979
+    second: rank_ribbon
+  - first:
+      213: -5857914924327319348
+    second: rank_vip
+  - first:
+      213: -8051663522119281610
+    second: btn_create
+  - first:
+      213: 3290432670774989434
+    second: btn_join
+  - first:
+      213: -7219488217233885335
+    second: btn_lobby
+  - first:
+      213: -581981560996529556
+    second: btn_spinup
+  - first:
+      213: 6538777079971998813
+    second: btn_tour
+  - first:
+      213: 1654087303195914252
+    second: club_bg
+  - first:
+      213: 6014523606131818924
+    second: tx_spinup
+  - first:
+      213: -1235144832858908961
+    second: lobby_line_top
+  - first:
+      213: -2270380122033760411
+    second: lobby_line_top_select
+  - first:
+      213: 459769931867043981
+    second: btn_back
+  - first:
+      213: -4130727792001979799
+    second: btn_enter
+  - first:
+      213: -784374616700585179
+    second: btn_register
+  - first:
+      213: 3260545225155089691
+    second: card_event_thumb
+  - first:
+      213: -1887364444932755810
+    second: gold_event_freeroll
+  - first:
+      213: -8243994582885229687
+    second: ic_ante
+  - first:
+      213: 6068277031844265136
+    second: ic_rebuy
+  - first:
+      213: -6878747150900834206
+    second: ic_up
+  - first:
+      213: 3818841435987445618
+    second: league_bg
+  - first:
+      213: 78124151377960962
+    second: league_thumb
+  - first:
+      213: 2660828586675136403
+    second: pokertour
+  - first:
+      213: 5581734185917641976
+    second: spinup_thumb
+  - first:
+      213: -8404832006368610547
+    second: time_bg_b
+  - first:
+      213: 8913971868117945512
+    second: time_bg_w
+  - first:
+      213: 4821635192966347012
+    second: ic_stradle
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 48
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ava_border
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 868
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1bffb17a38cc5d0800000000000000
+      internalID: -3040910894629408274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bar_btm_select
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 105
+        width: 266
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 129, y: 0, z: 126, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca71000f6631c2d60800000000000000
+      internalID: 7866683981943543724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bar_top_line
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 531
+        width: 3
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bdb08c3da6ddbf0800000000000000
+      internalID: -297964542509720749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgHide
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 865
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 10, y: 10, z: 10, w: 10}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgMoney
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 930
+        width: 139
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 0, z: 20, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoderAvatar
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 470
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bottom
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 32
+        width: 186
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 90, y: 0, z: 90, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_back
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 37
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88375b215e616600800000000000000
+      internalID: 459769931867043981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_create
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 132
+        width: 323
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 101, y: 0, z: 9, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6341c19afaeb24090800000000000000
+      internalID: -8051663522119281610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_enter
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 509
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 15, y: 0, z: 14, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a63ed65f4bca6c0800000000000000
+      internalID: -4130727792001979799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_fav
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 747
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75eb59b356650ad0800000000000000
+      internalID: -2736668688779582082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_friend
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 693
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fe0a96b126a9860800000000000000
+      internalID: 7537444796233740087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_join
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 68
+        width: 323
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 100, y: 0, z: 9, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7212e2a417f9ad20800000000000000
+      internalID: 3290432670774989434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_lobby
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 769
+        width: 603
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967f7a787b93fcb90800000000000000
+      internalID: -7219488217233885335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_mail
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 639
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45db8d692e678530800000000000000
+      internalID: 3857172730076714318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_mail_noti
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 445
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853046931aae1b0d0800000000000000
+      internalID: -3408685464769264808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_note
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 585
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7422b443cfde4d940800000000000000
+      internalID: 5320138727296279111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_rank
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 531
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681fd68ae07992690800000000000000
+      internalID: -7626398404764110458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_register
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 142
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 14, y: 0, z: 15, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b7ab021775d15f0800000000000000
+      internalID: -784374616700585179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_setting
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 477
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683a3668e01d1dff0800000000000000
+      internalID: -12999463590976634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_spinup
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 571
+        width: 227
+        height: 451
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a79fe8ad26ce7f0800000000000000
+      internalID: -581981560996529556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btn_tour
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 515
+        width: 603
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c623d3c176eba50800000000000000
+      internalID: 6538777079971998813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: btnIap
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 77
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: card_event_thumb
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 283
+        width: 241
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15177f6b98cf3d20800000000000000
+      internalID: 3260545225155089691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chip
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 999
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ba1d479cf473940800000000000000
+      internalID: 5275773215154744104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: club_bg
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 196
+        width: 360
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 7, y: 25, z: 11, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00f97673af74f610800000000000000
+      internalID: 1654087303195914252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_event_active
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 465
+        width: 27
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dot_event_deactive
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 465
+        width: 27
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: field_flash_bg
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 91
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 22, y: 0, z: 29, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a22a07c7bd5a1e10800000000000000
+      internalID: 2169149214432043681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flash
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 475
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b935b3bb374c6a270800000000000000
+      internalID: 8261506567799264155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gold_event_freeroll
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 743
+        width: 241
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ea41a790cbec5e0800000000000000
+      internalID: -1887364444932755810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeaderInfo
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 124
+        width: 114
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 0, z: 93, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_ante
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 22
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b91ecfa92779d80800000000000000
+      internalID: -8243994582885229687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_rebuy
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 160
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc3db13fc9d63450800000000000000
+      internalID: 6068277031844265136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_stradle
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 392
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409f74179a3e9e240800000000000000
+      internalID: 4821635192966347012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ic_up
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26053d259e7c980a0800000000000000
+      internalID: -6878747150900834206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_career
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 801
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e2d7054db560e20800000000000000
+      internalID: 3316439143046524440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_forum
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 132
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3803df8634e29b2e0800000000000000
+      internalID: -2109604083387256701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_game_bg
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 563
+        width: 260
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd9456b740709cd0800000000000000
+      internalID: -2553417535415083521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_game_bg_player
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 126
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dc0e6f26c72ba00800000000000000
+      internalID: 770815250724343104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_game_dubai
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 747
+        width: 243
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d69cc3e9458eb610800000000000000
+      internalID: 1638893866810382039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_game_las_vegas
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 747
+        width: 243
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6fe0fd49df89e00800000000000000
+      internalID: 1051869328830297777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_game_line_blue
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 200
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72977b2594c337f30800000000000000
+      internalID: 4572064332329220391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_game_line_green
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 563
+        width: 200
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e722e8e99e56e5f20800000000000000
+      internalID: 3413277621655315070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_game_los_angeles
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 465
+        width: 243
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99fed5acaa84f4f0800000000000000
+      internalID: -795858760015873638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_game_manila
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 469
+        width: 243
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cacd5211c4064b60800000000000000
+      internalID: 7729871037711370944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_game_rio
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 469
+        width: 243
+        height: 277
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2038820c16de11c0800000000000000
+      internalID: -4530948759298232277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_lobby
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 500
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff8d0cfad86d9bb0800000000000000
+      internalID: -4927667127532548112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_profile
+      rect:
+        serializedVersion: 2
+        x: 1348
+        y: 417
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d530249de1984a40800000000000000
+      internalID: 5352688606708250072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_shop
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 43
+        width: 74
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e350f6ed2e0fddd0800000000000000
+      internalID: -2459231281210174493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iconGold
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 118
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: league_bg
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 55
+        width: 260
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277039d8d004ff430800000000000000
+      internalID: 3818841435987445618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: league_thumb
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 3
+        width: 241
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2002343708d851100800000000000000
+      internalID: 78124151377960962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lobby_line_top
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 1240
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6194f8152ebdee0800000000000000
+      internalID: -1235144832858908961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lobby_line_top_select
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 32
+        width: 286
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567d119de4dfd70e0800000000000000
+      internalID: -2270380122033760411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokertour
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 185
+        width: 241
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397e9fc70892de420800000000000000
+      internalID: 2660828586675136403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rank_ribbon
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 105
+        width: 61
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbdaf0d1f2aaee90800000000000000
+      internalID: -6995599911689724979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rank_vip
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 20
+        width: 29
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8c203b96184bea0800000000000000
+      internalID: -5857914924327319348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spinup_thumb
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 185
+        width: 241
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f476463bad467d40800000000000000
+      internalID: 5581734185917641976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_bg_b
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 8
+        width: 57
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07b09722d90c5b80800000000000000
+      internalID: -8404832006368610547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: time_bg_w
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 939
+        width: 57
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8accef09f2ac4bb70800000000000000
+      internalID: 8913971868117945512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tx_spinup
+      rect:
+        serializedVersion: 2
+        x: 1823
+        y: 963
+        width: 199
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca140bc7a51e77350800000000000000
+      internalID: 6014523606131818924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: fecdc032b9b155941869d2526f421109
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: ui_khunggame
+  assetBundleVariant: 
