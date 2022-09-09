@@ -183,7 +183,7 @@ namespace View.GamePlay.DuaCho
             RacingDogDoorBettingView racingDogDoorManager = _bettingManager.GetDoorBetByPos(id);
             if (racingDogDoorManager != null)
             {
-                racingDogDoorManager.UpdateWinFactors(winFactors);
+                racingDogDoorManager.UpdateWinFactor(winFactors);
                 racingDogDoorManager.SetStateFactor(state);
             }
         }

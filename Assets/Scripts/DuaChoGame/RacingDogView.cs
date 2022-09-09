@@ -567,6 +567,15 @@ namespace View.GamePlay.DuaCho
         }
 
         [HandleUIEvent(EventType = HandlerType.EVN_UPDATEUI_HANDLER)]
+        private void UpdateWinFactorsEndGame(object[] param)
+        {
+            int id = (int)param[0];
+            float winFactors = (float)param[1];
+            short state = (short)param[2];
+            _bettingView.UpdateWinFactors(id, winFactors, state);
+        }
+
+        [HandleUIEvent(EventType = HandlerType.EVN_UPDATEUI_HANDLER)]
         private void ShowEffectWinDoor(object[] param)
         {
             int[] winslots = (int[])param[0];

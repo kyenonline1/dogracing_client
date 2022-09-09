@@ -74,7 +74,7 @@ namespace View.GamePlay.DuaCho
             if (goWinEffect) goWinEffect.SetActive(false);
             if (goMeWin) goMeWin.SetActive(false);
             if (goWinOther) goWinOther.SetActive(false);
-
+            UpdateWinFactors(factor);
         }
 
         public void ActiveWinDoor()
@@ -103,6 +103,11 @@ namespace View.GamePlay.DuaCho
         {
             factor = winFactors;
             txtFactor.text = string.Format("x{0}", winFactors);
+        }
+
+        public void UpdateWinFactor(float winFactor)
+        {
+            factor = winFactor;
         }
 
         public void SetStateFactor(short state)

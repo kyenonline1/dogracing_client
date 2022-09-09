@@ -551,7 +551,7 @@ namespace Controller.GamePlay.DuaCho
                         //View.OnUpdateView("UpdateTotalBet", money);
                         for (int i = 0; i < push.WinFactors.Length; i++)
                         {
-                            View.OnUpdateView("UpdateWinFactors", new object[] { push.WinFactors[i].SlotId, push.WinFactors[i].Factor, push.WinFactors[i].State });
+                            View.OnUpdateView("UpdateWinFactorsEndGame", new object[] { push.WinFactors[i].SlotId, push.WinFactors[i].Factor, push.WinFactors[i].State });
                         }
                         //View.OnUpdateView("UpdateMoneyMyBet", new object[] { money });
                         FillPlayerInfo(0, ClientConfig.UserInfo.AVATAR, ClientConfig.UserInfo.GOLD, ClientConfig.UserInfo.NICKNAME, EGameState.BETTING);
