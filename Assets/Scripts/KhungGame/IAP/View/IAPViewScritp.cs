@@ -97,6 +97,7 @@ namespace View.Home.IAP
         [HandleUIEvent(EventType = CoreBase.HandlerType.EVN_UPDATEUI_HANDLER)]
         private void ShowError(object[] param)
         {
+            isResponseBilling = true;
             ShowLoading(false);
             DialogExViewScript.Instance.ShowNotification((string)param[0]);
         }
@@ -135,12 +136,41 @@ namespace View.Home.IAP
 
         public void PurchaserSuccessGoogle(string SignedData, string Signature)
         {
-            Controller.OnHandleUIEvent("RequestPAY4GoogleBilling", SignedData, Signature);
+            if (coroutineRequestBilling != null) StopCoroutine(coroutineRequestBilling);
+            coroutineRequestBilling = StartCoroutine(IEGoogleBilling(SignedData, Signature));
         }
 
         public void PurchaserSuccessApple(string ProductId, string transactionId, string receiptStr)
         {
-            Controller.OnHandleUIEvent("RequestPAY3AppleBillind", ProductId, transactionId, receiptStr);
+            if (coroutineRequestBilling != null) StopCoroutine(coroutineRequestBilling);
+            coroutineRequestBilling = StartCoroutine(IEAppleBilling(ProductId, transactionId, receiptStr));
+        }
+
+        IEnumerator IEAppleBilling(string packageId, string transactionId, string receipt)
+        {
+            ShowLoading(true);
+            isResponseBilling = false;
+            while (!isResponseBilling)
+            {
+                //Debug.Log("waiting PAY3 Response...");
+                Debug.Log("request apple billing...");
+                Controller.OnHandleUIEvent("RequestPAY3AppleBillind", packageId, transactionId, receipt);
+                yield return new WaitForSeconds(3f);
+            }
+        }
+
+        bool isResponseBilling = false;
+        Coroutine coroutineRequestBilling = null;
+
+        IEnumerator IEGoogleBilling(string purchaseData, string signature)
+        {
+            isResponseBilling = false;
+            while (!isResponseBilling)
+            {
+                Debug.Log("waiting PAY4 Response...");
+                Controller.OnHandleUIEvent("RequestPAY4GoogleBilling", purchaseData, signature);
+                yield return new WaitForSeconds(3f);
+            }
         }
     }
 }
